@@ -52,7 +52,7 @@ for($i=0;$i<$___;$i++) {
 			<meta charset="UTF-8">
 			<meta name="robots" content="NOINDEX, NOFOLLOW">
 
-				<title>MARIYUK-MANDI/title>
+				<title>MARIYUK-MANDI</title>
 
 			<link rel="icon" href="//0x5a455553.github.io/MARIJUANA/icon.png" />
 			<link rel="stylesheet" href="//0x5a455553.github.io/MARIJUANA/main.css" type="text/css">
