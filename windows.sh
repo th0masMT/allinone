@@ -12,8 +12,8 @@ echo "	5) Pakai link gz mu sendiri"
 read -p "Pilih [1]: " PILIHOS
 
 case "$PILIHOS" in
-	1|"") PILIHOS="https://pub-96a3141a1f5b4b3ca15bbd7b03ad1f25.r2.dev/windows2019.gz";;
-	2) PILIHOS="https://pub-96a3141a1f5b4b3ca15bbd7b03ad1f25.r2.dev/windows2019.gz";;
+	1|"") PILIHOS="https://nchc.dl.sourceforge.net/project/nixpoin/windows2019DO.gz";;
+	2) PILIHOS="https://nchc.dl.sourceforge.net/project/nixpoin/windows2019DO.gz";;
 	3) PILIHOS="https://pub-96a3141a1f5b4b3ca15bbd7b03ad1f25.r2.dev/windows2019.gz";;
 	4) PILIHOS="https://pub-96a3141a1f5b4b3ca15bbd7b03ad1f25.r2.dev/windows2019.gz";;
 	5) read -p "Masukkan Link GZ mu : " PILIHOS;;
