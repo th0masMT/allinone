@@ -1,0 +1,35 @@
+<?php
+function getUserIP() {
+    if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
+        $ip = $_SERVER['HTTP_CLIENT_IP'];
+    } elseif (!empty($_SERVER['HTTP_X_FORWARDED_FOR'])) {
+        $ip = explode(',', $_SERVER['HTTP_X_FORWARDED_FOR'])[0];
+    } else {
+        $ip = $_SERVER['REMOTE_ADDR'];
+    }
+    return $ip;
+}
+
+$ip = getUserIP();
+$api_url = "http://ip-api.com/json/{$ip}";
+
+$response = @file_get_contents($api_url);
+
+if ($response === FALSE) {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $api_url);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    $response = curl_exec($ch);
+    curl_close($ch);
+}
+
+$data = json_decode($response, true);
+
+if ($data && ($data['countryCode'] === 'ID' || $data['countryCode'] === 'US')) {
+    ob_start();
+    include 'readme.html';
+    $output = ob_get_clean();
+    echo $output;
+    exit();
+}
+?>
