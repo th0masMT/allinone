@@ -49,9 +49,17 @@ echo ""
 subfinder -d $domain -all -silent | anew $domain/result-scansubdo.txt
 assetfinder -subs-only $domain | anew $domain/result-scansubdo.txt
 echo "" 
+echo "Scanning Port"
+echo "" 
+naabu -l $domain/result-scansubdo.txt -silent | anew $domain/result-scanport.txt
+echo "" 
 echo "Scanning Live"
 echo "" 
 cat $domain/result-scansubdo.txt | httpx -silent | anew $domain/result-scanlive.txt
+echo "" 
+echo "Scanning Crawling"
+echo ""
+cat $domain/result-scanlive.txt | katana -silent | anew $domain/result-scancrawling.txt
 echo ""
 echo "Scanning Vuln"
 echo "" 
