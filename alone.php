@@ -1,6 +1,6 @@
 <?php
 
-$auth_pass = '$2y$10$k1wXG5v4K3d1qR7uF2n6Z.vO9XgE8mS0yT3zL4wP5qR6sT7uV8wXe';
+$auth_pass = '$2y$12$fkOCJdGpv6xhEU6A131oDOICv5koMMgj95ISmFJUCiP8rI/Y9aGqa';
 
 function Login() {
   die("<html>
